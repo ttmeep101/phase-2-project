@@ -1,609 +1,608 @@
 {
-    "IndustryLeaders": [
-      {
-        "name": "Walmart",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "BestBuy",
-        "salary": 2,
-        "balance": 2,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Home Depot",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Target",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Costco",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "United Airlines",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Fedex",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Aflac",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "GEICO",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Kroger",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Boeing",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Tesla",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "The RealReal",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      }
-    ],
-    "BigTech": [
-      {
-        "name": "Adobe",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Microsoft",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Dropbox",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Meta",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Google",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Apple",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Airbnb",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Uber",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "LinkedIn",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Cruise",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "NVIDIA",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Snap",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Zillow",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "X",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      }
-    ],
-    "Media": [
-      {
-        "name": "Netflix",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Spotify",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "SoundCloud",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Walt Disney Company",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Warner Bros. Discovery",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Paramount Global",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      }
-    ],
-    "AI": [
-      {
-        "name": "Scale AI",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Anthropic",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "OpenAI",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      }
-    ],
-    "MarketingSaaS": [
-      {
-        "name": "Figma",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Iterable",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Miro",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Mixpanel",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Airtable",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Smartly",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Canva",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      }
-    ],
-    "Healthcare": [
-      {
-        "name": "Boston Scientific",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Amgen",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Johnson & Johnson",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Pfizer",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Roche",
-        "salary": 2,
-        "balance": 2,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "UnitedHealthcare",
-        "salary": 2,
-        "balance": 2,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Philips Healthcare",
-        "salary": 2,
-        "balance": 2,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Align Technology",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      }
-    ],
-    "Fintech": [
-      {
-        "name": "VISA",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Paypal",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Square",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Robinhood",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Chime",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Stripe",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Plaid",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Adyen",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Brex",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      }
-    ],
-    "Finance": [
-      {
-        "name": "Goldman Sachs",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "JPMorgan",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Citadel",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Jane Street",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Hudson River Trading",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Arrowstreet Capital",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Two Sigma",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Five Rings",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Optiver",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "DRW",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "IMC Trading",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      }
-    ],
-    "b2bSaas": [
-      {
-        "name": "Autodesk",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Databricks",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Zoom",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Snowflake",
-        "salary": 5,
-        "balance": 5,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Salesforce",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Oracle",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Contentsquare",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Atlassian",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Notion",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Asana",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Slack",
-        "salary": 4,
-        "balance": 4,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "Zapier",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      },
-      {
-        "name": "HubSpot",
-        "salary": 3,
-        "balance": 3,
-        "notes": "",
-        "link": ""
-      }
-    ]
-  }
-  
+  "IndustryLeaders": [
+    {
+      "name": "Walmart",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/walmart/jobs/"
+    },
+    {
+      "name": "BestBuy",
+      "salary": 2,
+      "balance": 2,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/bestbuy/jobs/"
+    },
+    {
+      "name": "Home Depot",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/home-depot/jobs/"
+    },
+    {
+      "name": "Target",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/target/jobs/"
+    },
+    {
+      "name": "Costco",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/costco/jobs/"
+    },
+    {
+      "name": "United Airlines",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/united-airlines/jobs/"
+    },
+    {
+      "name": "Fedex",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/fedex/jobs/"
+    },
+    {
+      "name": "Aflac",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/aflac/jobs/"
+    },
+    {
+      "name": "GEICO",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/geico/jobs/"
+    },
+    {
+      "name": "Kroger",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/kroger/jobs/"
+    },
+    {
+      "name": "Boeing",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/boeing/jobs/"
+    },
+    {
+      "name": "Tesla",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/tesla/jobs/"
+    },
+    {
+      "name": "The RealReal",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/the-realreal/jobs/"
+    }
+  ],
+  "BigTech": [
+    {
+      "name": "Adobe",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/adobe/jobs/"
+    },
+    {
+      "name": "Microsoft",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/microsoft/jobs/"
+    },
+    {
+      "name": "Dropbox",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/dropbox/jobs/"
+    },
+    {
+      "name": "Meta",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/meta/jobs/"
+    },
+    {
+      "name": "Google",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/google/jobs/"
+    },
+    {
+      "name": "Apple",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/apple/jobs/"
+    },
+    {
+      "name": "Airbnb",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/airbnb/jobs/"
+    },
+    {
+      "name": "Uber",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/uber/jobs/"
+    },
+    {
+      "name": "LinkedIn",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/linkedin/jobs/"
+    },
+    {
+      "name": "Cruise",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/cruise/jobs/"
+    },
+    {
+      "name": "NVIDIA",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/nvidia/jobs/"
+    },
+    {
+      "name": "Snap",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/snap/jobs/"
+    },
+    {
+      "name": "Zillow",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/zillow/jobs/"
+    },
+    {
+      "name": "X",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/x/jobs/"
+    }
+  ],
+  "Media": [
+    {
+      "name": "Netflix",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/netflix/jobs/"
+    },
+    {
+      "name": "Spotify",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/spotify/jobs/"
+    },
+    {
+      "name": "SoundCloud",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/soundcloud/jobs/"
+    },
+    {
+      "name": "Walt Disney Company",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/the-walt-disney-company/jobs/"
+    },
+    {
+      "name": "Warner Bros. Discovery",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/warner-bros-discovery/jobs/"
+    },
+    {
+      "name": "Paramount Global",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/paramount/jobs/"
+    }
+  ],
+  "AI": [
+    {
+      "name": "Scale AI",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/scale-ai/jobs/"
+    },
+    {
+      "name": "Anthropic",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/anthropic/jobs/"
+    },
+    {
+      "name": "OpenAI",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/openai/jobs/"
+    }
+  ],
+  "MarketingSaaS": [
+    {
+      "name": "Figma",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/figma/jobs/"
+    },
+    {
+      "name": "Iterable",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/iterable/jobs/"
+    },
+    {
+      "name": "Miro",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/miro/jobs/"
+    },
+    {
+      "name": "Mixpanel",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/mixpanel/jobs/"
+    },
+    {
+      "name": "Airtable",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/airtable/jobs/"
+    },
+    {
+      "name": "Smartly",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/smartly-io/jobs/"
+    },
+    {
+      "name": "Canva",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/canva/jobs/"
+    }
+  ],
+  "Healthcare": [
+    {
+      "name": "Boston Scientific",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/boston-scientific/jobs/"
+    },
+    {
+      "name": "Amgen",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/amgen/jobs/"
+    },
+    {
+      "name": "Johnson & Johnson",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/johnson-and-johnson/jobs/"
+    },
+    {
+      "name": "Pfizer",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/pfizer/jobs/"
+    },
+    {
+      "name": "Roche",
+      "salary": 2,
+      "balance": 2,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/roche/jobs/"
+    },
+    {
+      "name": "UnitedHealthcare",
+      "salary": 2,
+      "balance": 2,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/unitedhealthcare/jobs/"
+    },
+    {
+      "name": "Philips Healthcare",
+      "salary": 2,
+      "balance": 2,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/philips-healthcare/jobs/"
+    },
+    {
+      "name": "Align Technology",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/align-technology/jobs/"
+    }
+  ],
+  "Fintech": [
+    {
+      "name": "VISA",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/visa/jobs/"
+    },
+    {
+      "name": "Paypal",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/paypal/jobs/"
+    },
+    {
+      "name": "Square",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/square/jobs/"
+    },
+    {
+      "name": "Robinhood",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/robinhood/jobs/"
+    },
+    {
+      "name": "Chime",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/chime/jobs/"
+    },
+    {
+      "name": "Stripe",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/stripe/jobs/"
+    },
+    {
+      "name": "Plaid",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/plaid/jobs/"
+    },
+    {
+      "name": "Adyen",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/adyen/jobs/"
+    },
+    {
+      "name": "Brex",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/brex/jobs/"
+    }
+  ],
+  "Finance": [
+    {
+      "name": "Goldman Sachs",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/goldman-sachs/jobs/"
+    },
+    {
+      "name": "JPMorgan",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/jpmorgan/jobs/"
+    },
+    {
+      "name": "Citadel",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/citadel/jobs/"
+    },
+    {
+      "name": "Jane Street",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/jane-street/jobs/"
+    },
+    {
+      "name": "Hudson River Trading",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/hudson-river-trading/jobs/"
+    },
+    {
+      "name": "Arrowstreet Capital",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/arrowstreet-capital/jobs/"
+    },
+    {
+      "name": "Two Sigma",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/two-sigma/jobs/"
+    },
+    {
+      "name": "Five Rings",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/five-rings/jobs/"
+    },
+    {
+      "name": "Optiver",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/optiver/jobs/"
+    },
+    {
+      "name": "DRW",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/drw/jobs/"
+    },
+    {
+      "name": "IMC Trading",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/imc-trading/jobs/"
+    }
+  ],
+  "b2bSaas": [
+    {
+      "name": "Autodesk",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/autodesk/jobs/"
+    },
+    {
+      "name": "Databricks",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/databricks/jobs/"
+    },
+    {
+      "name": "Zoom",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/zoom/jobs/"
+    },
+    {
+      "name": "Snowflake",
+      "salary": 5,
+      "balance": 5,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/snowflake/jobs/"
+    },
+    {
+      "name": "Salesforce",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/salesforce/jobs/"
+    },
+    {
+      "name": "Oracle",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/oracle/jobs/"
+    },
+    {
+      "name": "Contentsquare",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/contentsquare/jobs/"
+    },
+    {
+      "name": "Atlassian",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/atlassian/jobs/"
+    },
+    {
+      "name": "Notion",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/notion/jobs/"
+    },
+    {
+      "name": "Asana",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/asana/jobs/"
+    },
+    {
+      "name": "Slack",
+      "salary": 4,
+      "balance": 4,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/slack/jobs/"
+    },
+    {
+      "name": "Zapier",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/zapier/jobs/"
+    },
+    {
+      "name": "HubSpot",
+      "salary": 3,
+      "balance": 3,
+      "notes": "",
+      "link": "https://www.linkedin.com/company/hubspot/jobs/"
+    }
+  ]
+}
