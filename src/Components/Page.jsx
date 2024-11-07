@@ -4,15 +4,6 @@ import CompanyCard from './CompanyCard'
 function Page({companies, setCompanies}){
     
     const [isLoading, setLoading] = useState(false)
-    
-    {useEffect(() => {
-        if(!isLoading) {
-          setLoading(true)
-          fetch('http://localhost:6001/AI')
-          .then(resp => resp.json())
-          .then(data => setCompanies(data), [])
-        }
-      })}
 
     console.log(companies)
 
