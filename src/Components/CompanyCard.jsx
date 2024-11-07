@@ -1,7 +1,6 @@
 import React from 'react'
 
 function CompanyCard(company){
-    console.log(company)
     
     return (
         <ul>

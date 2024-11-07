@@ -7,8 +7,8 @@ function App() {
 
     return (
       <div className="App">
-          <Home companies = {companies} setCompanies = {setCompanies}/>
           <Navbar companies = {companies} setCompanies = {setCompanies}/>
+          <Home companies = {companies} setCompanies = {setCompanies}/>
       </div>
     );
 }
