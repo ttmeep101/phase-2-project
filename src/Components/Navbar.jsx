@@ -1,30 +1,21 @@
-import React from 'react'
+import { NavLink } from "react-router-dom";
 
-function Navbar({companies, setCompanies, category}){
-    function renderCompanies(category){
-        fetch(`http://localhost:6001/${category}`)
-        .then(resp => resp.json())
-        .then(data => setCompanies(data))
-    }
+function NavBar() {
+  return (
+    <nav className="navbar" role="navigation">
+      <NavLink to="/" end> Home </NavLink>
+      {/* <NavLink to="/BigTech"> Big Tech </NavLink>
+      <NavLink to="/IndustryLeader"> Industry Leader </NavLink>
+      <NavLink to="/Media"> Media </NavLink>
+      <NavLink to="/MarketingSaaS"> Marketing SaaS </NavLink>
+      <NavLink to="/Healthcare"> Healthcare </NavLink>
+      <NavLink to="/Fintech"> Fintech </NavLink>
+      <NavLink to="/AI"> AI </NavLink>
+      <NavLink to="/CommunitySubmissions"> Community Submissions </NavLink>
+      <NavLink to="/MostFavorited"> Most Favorited </NavLink> */}
 
-    function clearCompanies(){
-        setCompanies([])
-    }
-    
-    return (
-        <div>
-            <button onClick = {() => clearCompanies()}>Home</button>
-            <button onClick = {() => renderCompanies('BigTech')}>Big Tech</button>
-            <button onClick = {() => renderCompanies('IndustryLeaders')}>Industry Leaders</button>
-            <button onClick = {() => renderCompanies('Media')}>Media</button>
-            <button onClick = {() => renderCompanies('MarketingSaaS')}>Marketing SaaS</button>
-            <button onClick = {() => renderCompanies('Healthcare')}>Healthcare</button>
-            <button onClick = {() => renderCompanies('Fintech')}>Fintech</button>
-            <button onClick = {() => renderCompanies('Finance')}>Finance</button>
-            <button onClick = {() => renderCompanies('b2bSaaS')}>b2b SaaS</button>
-            <button onClick = {() => renderCompanies('AI')}>AI</button>
-        </div>
-    )
+    </nav>
+  );
 }
 
-export default Navbar
+export default NavBar;

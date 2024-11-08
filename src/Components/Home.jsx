@@ -1,10 +1,13 @@
 import React from 'react'
 import Page from './Page'
+import Header from './Header'
+import Navbar from './Navbar'
 
-function Home({companies, setCompanies}){
+function Home(){
     return (
         <div>
-            <Page companies = {companies} setCompanies = {setCompanies}/>
+            <Header />
+            <Navbar />
         </div>
     )
 }
