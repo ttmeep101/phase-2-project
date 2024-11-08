@@ -5,13 +5,13 @@ import NavBar from "./Navbar"
 import CompanyCard from "./CompanyCard"
 import overview from "./Overview"
 
-function BigTech() {
+function Fintech() {
     const [isLoading, setLoading] = useState(false)
     const [companies, setCompanies] = useState([])
 
     {useEffect(() => {
         if(!isLoading) {
-            fetch('http://localhost:6001/BigTech')
+            fetch('http://localhost:6001/Fintech')
             .then(resp => resp.json())
             .then(data => {
                 setCompanies(data)
@@ -24,7 +24,7 @@ function BigTech() {
             <Header />
             <NavBar />
             <div className='Overview Header'>
-                <h2>{overview.BigTech.Overview}</h2>
+                <h2>{overview.Fintech.Overview}</h2>
             </div>
             {companies.map((company, index) => (
                 <CompanyCard
@@ -36,4 +36,4 @@ function BigTech() {
     )
 }
 
-export default BigTech
+export default Fintech
