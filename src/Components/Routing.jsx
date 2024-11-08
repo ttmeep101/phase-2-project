@@ -9,8 +9,8 @@ import Home from './Home';
 // import Finance from './Finance';
 // import b2bSaaS from './b2bSaaS';
 // import AI from './AI';
-// import from './'; --> CommunitySubmissions
-// import from './'; --> MostFavorited
+// import CommunitySubmissions from './CommunitySubmissions';
+// import MostFavorited from './MostFavorited';
 
 // import ErrorPage from './pages/ErrorPage';
 
