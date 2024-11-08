@@ -1,5 +1,4 @@
 import React from 'react'
-import Page from './Page'
 import Header from './Header'
 import Navbar from './Navbar'
 import overview from './Overview'
