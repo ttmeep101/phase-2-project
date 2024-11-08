@@ -7,7 +7,9 @@ function CompanyCard(company){
             <li>{company.company.name}</li>
             <li>{company.company.salary}</li>
             <li>{company.company.balance}</li>
-            <li>{company.company.link}</li>
+            <li>
+                <a href={company.company.link}>Company Link</a>
+            </li>
             <li>{company.company.notes}</li>
         </ul>
     )
