@@ -20,20 +20,23 @@ function MarketingSaaS() {
     })}
 
     return (
-        <div>
+        <div className="container">
             <Header />
             <NavBar />
-            <div className='Overview Header'>
-                <h2>{overview.MarketingSaaS.Overview}</h2>
+            <div className="content-square">
+                <h2 className="section-title">Marketing SaaS</h2>
+                <p>{overview.MarketingSaaS.Overview}</p>
             </div>
-            {companies.map((company, index) => (
-                <CompanyCard
-                    key = {index}
-                    company = {company}
-                />
-            ))}
+            <div className="company-tiles">
+                {companies.map((company, index) => (
+                    <CompanyCard
+                        key={index}
+                        company={company}
+                    />
+                ))}
+            </div>
         </div>
-    )
+    );
 }
 
 export default MarketingSaaS

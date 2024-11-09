@@ -1,11 +1,13 @@
 import React from 'react'
 
-function Header(){
+function Header() {
     return (
-    <h1>
-        Flatiron Software Engineering Job Search Guide
-    </h1>
-    )
+        <div className="header">
+            <h1>
+                Flatiron Software Engineering Job Search Guide
+            </h1>
+        </div>
+    );
 }
 
-export default Header
+export default Header;

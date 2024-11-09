@@ -20,20 +20,23 @@ function B2BSaaS() {
     })
 
     return (
-        <div>
+        <div className="container">
             <Header />
             <NavBar />
-            <div className='Overview Header'>
-                <h2>{overview.B2BSaaS.Overview}</h2>
+            <div className="content-square">
+                <h2 className="section-title">B2B SaaS</h2>
+                <p>{overview.B2BSaaS.Overview}</p>
             </div>
-            {companies.map((company, index) => (
-                <CompanyCard
-                    key = {index}
-                    company = {company}
-                />
-            ))}
+            <div className="company-tiles">
+                {companies.map((company, index) => (
+                    <CompanyCard
+                        key={index}
+                        company={company}
+                    />
+                ))}
+            </div>
         </div>
-    )
+    );
 }
 
 export default B2BSaaS

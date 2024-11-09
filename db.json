@@ -12,14 +12,14 @@
       "salary": 2,
       "balance": 2,
       "notes": "",
-      "link": "https://www.linkedin.com/company/bestbuy/jobs/"
+      "link": "https://www.linkedin.com/company/best-buy/jobs/"
     },
     {
       "name": "Home Depot",
       "salary": 3,
       "balance": 3,
       "notes": "",
-      "link": "https://www.linkedin.com/company/home-depot/jobs/"
+      "link": "https://www.linkedin.com/company/the-home-depot/jobs/"
     },
     {
       "name": "Target",
@@ -33,7 +33,7 @@
       "salary": 3,
       "balance": 3,
       "notes": "",
-      "link": "https://www.linkedin.com/company/costco/jobs/"
+      "link": "https://www.linkedin.com/company/costco-wholesale/jobs/"
     },
     {
       "name": "United Airlines",
@@ -82,7 +82,7 @@
       "salary": 4,
       "balance": 4,
       "notes": "",
-      "link": "https://www.linkedin.com/company/tesla/jobs/"
+      "link": "https://www.linkedin.com/company/tesla-motors/jobs/"
     },
     {
       "name": "The RealReal",
@@ -147,7 +147,7 @@
       "salary": 5,
       "balance": 5,
       "notes": "",
-      "link": "https://www.linkedin.com/company/uber/jobs/"
+      "link": "https://www.linkedin.com/company/uber-com/jobs/"
     },
     {
       "name": "LinkedIn",
@@ -161,7 +161,7 @@
       "salary": 5,
       "balance": 5,
       "notes": "",
-      "link": "https://www.linkedin.com/company/cruise/jobs/"
+      "link": "https://www.linkedin.com/company/getcruise/jobs/"
     },
     {
       "name": "NVIDIA",
@@ -175,7 +175,7 @@
       "salary": 4,
       "balance": 4,
       "notes": "",
-      "link": "https://www.linkedin.com/company/snap/jobs/"
+      "link": "https://www.linkedin.com/company/snap-inc-co/jobs/"
     },
     {
       "name": "Zillow",
@@ -189,7 +189,7 @@
       "salary": 4,
       "balance": 4,
       "notes": "",
-      "link": "https://www.linkedin.com/company/x/jobs/"
+      "link": "https://careers.x.com/"
     }
   ],
   "Media": [
@@ -242,14 +242,14 @@
       "salary": 5,
       "balance": 5,
       "notes": "",
-      "link": "https://www.linkedin.com/company/scale-ai/jobs/"
+      "link": "https://www.linkedin.com/company/scaleai/jobs/"
     },
     {
       "name": "Anthropic",
       "salary": 5,
       "balance": 5,
       "notes": "",
-      "link": "https://www.linkedin.com/company/anthropic/jobs/"
+      "link": "https://www.linkedin.com/company/anthropicresearch/jobs/"
     },
     {
       "name": "OpenAI",
@@ -279,14 +279,14 @@
       "salary": 4,
       "balance": 4,
       "notes": "",
-      "link": "https://www.linkedin.com/company/miro/jobs/"
+      "link": "https://www.linkedin.com/company/mirohq/jobs/"
     },
     {
       "name": "Mixpanel",
       "salary": 4,
       "balance": 4,
       "notes": "",
-      "link": "https://www.linkedin.com/company/mixpanel/jobs/"
+      "link": "https://www.linkedin.com/company/mixpanel-inc-/jobs/"
     },
     {
       "name": "Airtable",
@@ -330,7 +330,7 @@
       "salary": 3,
       "balance": 3,
       "notes": "",
-      "link": "https://www.linkedin.com/company/johnson-and-johnson/jobs/"
+      "link": "https://www.linkedin.com/company/johnson-&-johnson/jobs/"
     },
     {
       "name": "Pfizer",
@@ -358,7 +358,7 @@
       "salary": 2,
       "balance": 2,
       "notes": "",
-      "link": "https://www.linkedin.com/company/philips-healthcare/jobs/"
+      "link": "https://www.linkedin.com/company/philips/jobs/"
     },
     {
       "name": "Align Technology",
@@ -388,7 +388,7 @@
       "salary": 5,
       "balance": 5,
       "notes": "",
-      "link": "https://www.linkedin.com/company/square/jobs/"
+      "link": "https://www.linkedin.com/company/joinsquare/jobs/"
     },
     {
       "name": "Robinhood",
@@ -402,7 +402,7 @@
       "salary": 4,
       "balance": 4,
       "notes": "",
-      "link": "https://www.linkedin.com/company/chime/jobs/"
+      "link": "https://www.linkedin.com/company/chime-card/jobs/"
     },
     {
       "name": "Stripe",
@@ -416,7 +416,7 @@
       "salary": 5,
       "balance": 5,
       "notes": "",
-      "link": "https://www.linkedin.com/company/plaid/jobs/"
+      "link": "https://www.linkedin.com/company/plaid-/jobs/"
     },
     {
       "name": "Adyen",
@@ -430,7 +430,7 @@
       "salary": 5,
       "balance": 5,
       "notes": "",
-      "link": "https://www.linkedin.com/company/brex/jobs/"
+      "link": "https://www.linkedin.com/company/brexhq/jobs/"
     }
   ],
   "Finance": [
@@ -453,14 +453,14 @@
       "salary": 4,
       "balance": 4,
       "notes": "",
-      "link": "https://www.linkedin.com/company/citadel/jobs/"
+      "link": "https://www.linkedin.com/company/citadel-llc/jobs/"
     },
     {
       "name": "Jane Street",
       "salary": 4,
       "balance": 4,
       "notes": "",
-      "link": "https://www.linkedin.com/company/jane-street/jobs/"
+      "link": "https://www.linkedin.com/company/jane-street-global/jobs/"
     },
     {
       "name": "Hudson River Trading",
@@ -481,14 +481,14 @@
       "salary": 5,
       "balance": 5,
       "notes": "",
-      "link": "https://www.linkedin.com/company/two-sigma/jobs/"
+      "link": "https://www.linkedin.com/company/two-sigma-investments/jobs/"
     },
     {
       "name": "Five Rings",
       "salary": 4,
       "balance": 4,
       "notes": "",
-      "link": "https://www.linkedin.com/company/five-rings/jobs/"
+      "link": "https://www.linkedin.com/company/fiverings/jobs/"
     },
     {
       "name": "Optiver",
@@ -509,7 +509,7 @@
       "salary": 4,
       "balance": 4,
       "notes": "",
-      "link": "https://www.linkedin.com/company/imc-trading/jobs/"
+      "link": "https://www.linkedin.com/company/imc-financial-markets/jobs/"
     }
   ],
   "B2BSaaS": [
@@ -539,7 +539,7 @@
       "salary": 5,
       "balance": 5,
       "notes": "",
-      "link": "https://www.linkedin.com/company/snowflake/jobs/"
+      "link": "https://www.linkedin.com/company/snowflake-computing/jobs/"
     },
     {
       "name": "Salesforce",
@@ -574,7 +574,7 @@
       "salary": 4,
       "balance": 4,
       "notes": "",
-      "link": "https://www.linkedin.com/company/notion/jobs/"
+      "link": "https://www.linkedin.com/company/notionhq/jobs/"
     },
     {
       "name": "Asana",

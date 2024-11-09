@@ -20,20 +20,23 @@ function IndustryLeaders() {
     })}
     
     return (
-        <div>
+        <div className="container">
             <Header />
             <NavBar />
-            <div className='Overview Header'>
-                <h2>{overview.IndustryLeaders.Overview}</h2>
+            <div className="content-square">
+                <h2 className="section-title">Industry Leaders</h2>
+                <p>{overview.IndustryLeaders.Overview}</p>
             </div>
-            {companies.map((company, index) => (
-                <CompanyCard
-                    key = {index}
-                    company = {company}
-                />
-            ))}
+            <div className="company-tiles">
+                {companies.map((company, index) => (
+                    <CompanyCard
+                        key={index}
+                        company={company}
+                    />
+                ))}
+            </div>
         </div>
-    )
+    );
 }
 
 export default IndustryLeaders

@@ -18,11 +18,11 @@ const overview =
     },
 "B2BSaaS":
     {
-      "Overview": "This collection of enterprise software firms underpin much of how most major companies operate today."
+      "Overview": "This collection of enterprise software firms underpins much of how most major companies operate today."
     },
 "Fintech":
     {
-      "Overview": "Some of the newest leaders in the financial industry, often specializing in credit and payments."
+      "Overview": "Often specializing in credit and payments, this group includes some of the newest leaders in the financial industry."
     },
 "Finance":
     {

@@ -20,20 +20,23 @@ function Finance() {
     })}
 
     return (
-        <div>
+        <div className="container">
             <Header />
             <NavBar />
-            <div className='Overview Header'>
-                <h2>{overview.Finance.Overview}</h2>
+            <div className="content-square">
+                <h2 className="section-title">Finance</h2>
+                <p>{overview.Finance.Overview}</p>
             </div>
-            {companies.map((company, index) => (
-                <CompanyCard
-                    key = {index}
-                    company = {company}
-                />
-            ))}
+            <div className="company-tiles">
+                {companies.map((company, index) => (
+                    <CompanyCard
+                        key={index}
+                        company={company}
+                    />
+                ))}
+            </div>
         </div>
-    )
+    );
 }
 
 export default Finance

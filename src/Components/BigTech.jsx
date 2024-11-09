@@ -20,20 +20,23 @@ function BigTech() {
     })}
 
     return (
-        <div>
+        <div className="container">
             <Header />
             <NavBar />
-            <div className='Overview Header'>
-                <h2>{overview.BigTech.Overview}</h2>
+            <div className="content-square">
+                <h2 className="section-title">Big Tech</h2>
+                <p>{overview.BigTech.Overview}</p>
             </div>
-            {companies.map((company, index) => (
-                <CompanyCard
-                    key = {index}
-                    company = {company}
-                />
-            ))}
+            <div className="company-tiles">
+                {companies.map((company, index) => (
+                    <CompanyCard
+                        key={index}
+                        company={company}
+                    />
+                ))}
+            </div>
         </div>
-    )
+    );
 }
 
 export default BigTech

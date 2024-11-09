@@ -1,0 +1,121 @@
+:root {
+    --font-family-sans: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    --header-font-size: 2.4rem;
+    --description-font-size: 1.4rem;
+    --font-weight-normal: 400;
+    --font-weight-bold: 600;
+    --color-text: rgba(0, 0, 0, 0.9);
+    --color-link: #0a66c2;
+    --color-link-hover: #004182;
+    --color-background: #f8fafd;
+    --content-background: #ffffff;
+    --content-padding: 1.6rem;
+    --content-border-radius: 0.8rem;
+    --content-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    --navbar-background: #ffffff;
+    --navbar-padding: 1rem;
+    --navbar-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    --tile-min-width: 200px;
+}
+
+body {
+    font-family: var(--font-family-sans);
+    font-size: var(--description-font-size);
+    line-height: 1.5;
+    color: var(--color-text);
+    background-color: var(--color-background);
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Center all text content */
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--navbar-background);
+    padding: var(--navbar-padding);
+    box-shadow: var(--navbar-box-shadow);
+    margin-bottom: 2rem;
+}
+
+.navbar a {
+    color: var(--color-link);
+    text-decoration: none;
+    font-weight: var(--font-weight-bold);
+    padding: 0.5rem 1rem;
+    border-radius: var(--content-border-radius);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.navbar a:hover {
+    background-color: var(--color-link);
+    color: #ffffff;
+}
+
+.header {
+    text-align: center;
+    padding: 1rem;
+    background-color: var(--content-background);
+    box-shadow: var(--content-box-shadow);
+    margin-bottom: 2rem;
+}
+
+h2.section-title {
+    font-size: var(--header-font-size);
+    font-weight: var(--font-weight-bold);
+    margin-bottom: 1rem;
+}
+
+.content-square {
+    background-color: var(--content-background);
+    padding: var(--content-padding);
+    border-radius: var(--content-border-radius);
+    box-shadow: var(--content-box-shadow);
+    margin-bottom: 1.5rem;
+    text-align: center; /* Center text within content squares */
+}
+
+.container {
+    padding: 2rem;
+    text-align: center; /* Center text within container */
+}
+
+.company-tiles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center tiles in their container */
+    gap: 1rem;
+}
+
+.company-tile {
+    min-width: var(--tile-min-width);
+    flex: 1 1 auto; /* Allow tiles to grow and shrink */
+    background-color: var(--content-background);
+    padding: 1rem;
+    border-radius: var(--content-border-radius);
+    box-shadow: var(--content-box-shadow);
+    margin: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /* Center content within tiles */
+    text-align: center; /* Center text within tiles */
+    overflow: hidden; /* Ensure content doesn't spill over */
+}
+
+.company-tile h3, .company-tile h4 {
+    margin: 0.5rem 0;
+    overflow: hidden; /* Hide overflow if necessary */
+    text-overflow: ellipsis; /* Display ellipsis for overflow text */
+    white-space: nowrap; /* Prevent line wrapping */
+}
+
+.company-link a {
+    color: var(--color-link);
+    text-decoration: underline;
+}
+
+.company-link a:hover {
+    color: var(--color-link-hover);
+}

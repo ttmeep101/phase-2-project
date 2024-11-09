@@ -3,70 +3,103 @@ import { Link } from 'react-router-dom';
 import Header from './Header'
 import Navbar from './Navbar'
 import overview from './Overview'
+import CSS from './App.css';
 
 function Home() {
-    console.log(overview.AI.Overview)
+    console.log(overview.AI.Overview);
     return (
         <div>
             <Header />
             <Navbar />
-            
-            <div className="overview"> 
-                <h2>Site Overview Placeholder</h2>
+
+            <div className="overview">
+                <h2 className="section-title">Site Overview Placeholder</h2>
+                <div className="content-square">
+                    <p>Site overview content goes here.</p>
+                </div>
             </div>
 
             <div className="BigTechHeader">
-                <Link to='/BigTech'><div>
-                    <h2>{overview.BigTech.Overview}</h2>
-                </div></Link>
-                <Link to='/Media'><div>
-                    <h2>{overview.Media.Overview}</h2>
-                </div></Link>
-                <Link to='/AI'><div>
-                    <h2>{overview.AI.Overview}</h2>
-                </div></Link>
+                <h2 className="section-title">Big Tech</h2>
+                <Link to='/BigTech'>
+                    <div className="content-square">
+                        <p>{overview.BigTech.Overview}</p>
+                    </div>
+                </Link>
+                <Link to='/Media'>
+                    <div className="content-square">
+                        <p>{overview.Media.Overview}</p>
+                    </div>
+                </Link>
+                <Link to='/AI'>
+                    <div className="content-square">
+                        <p>{overview.AI.Overview}</p>
+                    </div>
+                </Link>
             </div>
 
             <div className="SaaS">
-                <Link to='/MarketingSaaS'><div>
-                    <h2>{overview.MarketingSaaS.Overview}</h2>
-                </div></Link>
-                <Link to='/B2BSaaS'><div>    
-                    <h2>{overview.B2BSaaS.Overview}</h2>
-                </div></Link>
+                <h2 className="section-title">SaaS</h2>
+                <Link to='/MarketingSaaS'>
+                    <div className="content-square">
+                        <p>{overview.MarketingSaaS.Overview}</p>
+                    </div>
+                </Link>
+                <Link to='/B2BSaaS'>
+                    <div className="content-square">
+                        <p>{overview.B2BSaaS.Overview}</p>
+                    </div>
+                </Link>
             </div>
 
             <div className="Finance">
-                <Link to='/Fintech'><div>
-                    <h2>{overview.Fintech.Overview}</h2>
-                </div></Link>
-                <Link to='/Finance'><div>
-                    <h2>{overview.Finance.Overview}</h2>
-                </div></Link>
+                <h2 className="section-title">Finance</h2>
+                <Link to='/Fintech'>
+                    <div className="content-square">
+                        <p>{overview.Fintech.Overview}</p>
+                    </div>
+                </Link>
+                <Link to='/Finance'>
+                    <div className="content-square">
+                        <p>{overview.Finance.Overview}</p>
+                    </div>
+                </Link>
             </div>
 
             <div className="HealthcareHeader">
-                <Link to='/Healthcare'><div>
-                    <h2>{overview.Healthcare.Overview}</h2>
-                </div></Link>
+                <h2 className="section-title">Healthcare</h2>
+                <Link to='/Healthcare'>
+                    <div className="content-square">
+                        <p>{overview.Healthcare.Overview}</p>
+                    </div>
+                </Link>
             </div>
 
             <div className="IndustryLeadersHeader">
-                <Link to='/IndustryLeaders'><div>
-                    <h2>{overview.IndustryLeaders.Overview}</h2>
-                </div></Link>
+                <h2 className="section-title">Industry Leaders</h2>
+                <Link to='/IndustryLeaders'>
+                    <div className="content-square">
+                        <p>{overview.IndustryLeaders.Overview}</p>
+                    </div>
+                </Link>
             </div>
 
             <div className="MostFavoritedHeader">
-                <Link to='/MostFavorited'><div>
-                    <h2>{overview.MostFavorited.Overview}</h2>
-                </div></Link>
+                <h2 className="section-title">Most Favorited</h2>
+                <Link to='/MostFavorited'>
+                    <div className="content-square">
+                        <p>{overview.MostFavorited.Overview}</p>
+                    </div>
+                </Link>
             </div>
 
             <div className="CommunitySubmissionHeader">
-                <Link to='/CommunitySubmissions'><div>
-                    <h2>{overview.CommunitySubmissions.Overview}</h2>
-                </div></Link>
+                <h2 className="section-title">Community Submissions</h2>
+                <Link to='/CommunitySubmissions'>
+                    <div className="content-square">
+                        <p>{overview.CommunitySubmissions.Overview}</p>
+                    </div>
+                </Link>
             </div>
         </div>
     );
