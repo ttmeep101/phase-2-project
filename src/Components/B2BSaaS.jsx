@@ -9,7 +9,7 @@ function B2BSaaS() {
     const [isLoading, setLoading] = useState(false)
     const [companies, setCompanies] = useState([])
 
-    {useEffect(() => {
+    useEffect(() => {
         if(!isLoading) {
             fetch('http://localhost:6001/B2BSaaS')
             .then(resp => resp.json())
@@ -17,7 +17,7 @@ function B2BSaaS() {
                 setCompanies(data)
                 setLoading(true)
         })}
-    })}
+    })
 
     return (
         <div>
