@@ -9,7 +9,7 @@ import Fintech from './Fintech';
 import Finance from './Finance';
 import B2BSaaS from './B2BSaaS';
 import AI from './AI';
-// import CommunitySubmissions from './CommunitySubmissions';
+import CommunitySubmissions from './CommunitySubmissions';
 // import MostFavorited from './MostFavorited';
 
 // import ErrorPage from './pages/ErrorPage';
@@ -25,7 +25,7 @@ const routes = createBrowserRouter([
   { path: '/Finance', element: <Finance /> },
   { path: '/B2BSaaS', element: <B2BSaaS /> },
   { path: '/AI', element: <AI /> },
-//   { path: '/CommunitySubmissions', element: <CommunitySubmissions /> },
+  { path: '/CommunitySubmissions', element: <CommunitySubmissions /> },
 //   { path: '/MostFavorited', element: <MostFavorited /> },
 //   { path: '*', element: <ErrorPage /> }
 ]);

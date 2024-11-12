@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState, useEffect } from 'react';
 
-function CompanyCard({ company, category, updateFavoriteStatus }) {
+function CompanyCard({ company, category, updateFavoriteStatus, canDelete, handleDelete}) {
     
     const [isFavorite, setFavorite] = useState(company.favorite)
 
@@ -25,7 +25,7 @@ function CompanyCard({ company, category, updateFavoriteStatus }) {
             updateFavoriteStatus(data)
         })
     }
-    
+
     return (
         <div className="company-tile">
             <h3 className="company-name">{company.name}</h3>
@@ -35,7 +35,8 @@ function CompanyCard({ company, category, updateFavoriteStatus }) {
             <h4 className="indeed-link">
                 <a href={company.indeed} target="_blank" rel="noopener noreferrer">Indeed</a>
             </h4>
-            <button onClick={handleFavorite}>{isFavorite ? '★' : '☆'}</button>
+            <button className='favorite-button'onClick={handleFavorite}>{isFavorite ? '★' : '☆'}</button>
+            {canDelete ? <button className='delete-button' onClick={() => handleDelete(company)}>Delete</button> : <></>}
         </div>
     );
 }
