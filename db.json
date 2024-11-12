@@ -2,607 +2,523 @@
   "IndustryLeaders": [
     {
       "name": "Walmart",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/walmart/jobs/"
+      "link": "https://www.linkedin.com/company/walmart/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Walmart-EI_IE715.htm",
+      "favorite": false
     },
     {
       "name": "BestBuy",
-      "salary": 2,
-      "balance": 2,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/best-buy/jobs/"
+      "link": "https://www.linkedin.com/company/best-buy/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Best-Buy-EI_IE97.htm",
+      "favorite": false
     },
     {
       "name": "Home Depot",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/the-home-depot/jobs/"
+      "link": "https://www.linkedin.com/company/the-home-depot/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-The-Home-Depot-EI_IE655.htm",
+      "favorite": false
     },
     {
       "name": "Target",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/target/jobs/"
+      "link": "https://www.linkedin.com/company/target/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Target-EI_IE194.htm",
+      "favorite": false
     },
     {
       "name": "Costco",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/costco-wholesale/jobs/"
+      "link": "https://www.linkedin.com/company/costco-wholesale/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Costco-Wholesale-EI_IE2590.htm",
+      "favorite": false
     },
     {
       "name": "United Airlines",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/united-airlines/jobs/"
+      "link": "https://www.linkedin.com/company/united-airlines/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-United-Airlines-EI_IE683.htm",
+      "favorite": false
     },
     {
       "name": "Fedex",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/fedex/jobs/"
+      "link": "https://www.linkedin.com/company/fedex/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-FedEx-EI_IE246.htm",
+      "favorite": false
     },
     {
       "name": "Aflac",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/aflac/jobs/"
+      "link": "https://www.linkedin.com/company/aflac/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Aflac-EI_IE1302.htm",
+      "favorite": false
     },
     {
       "name": "GEICO",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/geico/jobs/"
+      "link": "https://www.linkedin.com/company/geico/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-GEICO-EI_IE270.htm",
+      "favorite": false
     },
     {
       "name": "Kroger",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/kroger/jobs/"
+      "link": "https://www.linkedin.com/company/kroger/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Kroger-EI_IE386.htm",
+      "favorite": false
     },
     {
       "name": "Boeing",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/boeing/jobs/"
+      "link": "https://www.linkedin.com/company/boeing/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Boeing-EI_IE102.htm",
+      "favorite": false
     },
     {
       "name": "Tesla",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/tesla-motors/jobs/"
+      "link": "https://www.linkedin.com/company/tesla-motors/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Tesla-EI_IE43129.htm",
+      "favorite": false
     },
     {
       "name": "The RealReal",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/the-realreal/jobs/"
+      "link": "https://www.linkedin.com/company/the-realreal/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-The-RealReal-EI_IE486312.htm",
+      "favorite": false
     }
-  ],
+],
   "BigTech": [
     {
       "name": "Adobe",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/adobe/jobs/"
+      "link": "https://www.linkedin.com/company/adobe/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Adobe-EI_IE1099.htm",
+      "favorite": false
     },
     {
       "name": "Microsoft",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/microsoft/jobs/"
+      "link": "https://www.linkedin.com/company/microsoft/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Microsoft-EI_IE1651.htm",
+      "favorite": false
     },
     {
       "name": "Dropbox",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/dropbox/jobs/"
+      "link": "https://www.linkedin.com/company/dropbox/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Dropbox-EI_IE391087.htm",
+      "favorite": false
     },
     {
       "name": "Meta",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/meta/jobs/"
+      "link": "https://www.linkedin.com/company/meta/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Meta-EI_IE40772.htm",
+      "favorite": false
     },
     {
       "name": "Google",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/google/jobs/"
+      "link": "https://www.linkedin.com/company/google/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Google-EI_IE9079.htm",
+      "favorite": false
     },
     {
       "name": "Apple",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/apple/jobs/"
+      "link": "https://www.linkedin.com/company/apple/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.htm",
+      "favorite": false
     },
     {
       "name": "Airbnb",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/airbnb/jobs/"
+      "link": "https://www.linkedin.com/company/airbnb/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Airbnb-EI_IE43844.htm",
+      "favorite": false
     },
     {
       "name": "Uber",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/uber-com/jobs/"
+      "link": "https://www.linkedin.com/company/uber-com/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Uber-EI_IE575263.htm",
+      "favorite": false
     },
     {
       "name": "LinkedIn",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/linkedin/jobs/"
+      "link": "https://www.linkedin.com/company/linkedin/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-LinkedIn-EI_IE34865.htm",
+      "favorite": false
     },
     {
       "name": "Cruise",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/getcruise/jobs/"
+      "link": "https://www.linkedin.com/company/getcruise/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Cruise-EI_IE1835361.htm",
+      "favorite": false
     },
     {
       "name": "NVIDIA",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/nvidia/jobs/"
+      "link": "https://www.linkedin.com/company/nvidia/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-NVIDIA-EI_IE6290.htm",
+      "favorite": false
     },
     {
       "name": "Snap",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/snap-inc-co/jobs/"
+      "link": "https://www.linkedin.com/company/snap-inc-co/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Snap-EI_IE1021682.htm",
+      "favorite": false
     },
     {
       "name": "Zillow",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/zillow/jobs/"
+      "link": "https://www.linkedin.com/company/zillow/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Zillow-EI_IE123077.htm",
+      "favorite": false
     },
     {
       "name": "X",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://careers.x.com/"
+      "link": "https://careers.x.com/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-X-EI_IE35992.htm",
+      "favorite": false
     }
-  ],
+],
   "Media": [
     {
       "name": "Netflix",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/netflix/jobs/"
+      "link": "https://www.linkedin.com/company/netflix/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Netflix-EI_IE11811.htm",
+      "favorite": false
     },
     {
       "name": "Spotify",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/spotify/jobs/"
+      "link": "https://www.linkedin.com/company/spotify/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Spotify-EI_IE67744.htm",
+      "favorite": false
     },
     {
       "name": "SoundCloud",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/soundcloud/jobs/"
+      "link": "https://www.linkedin.com/company/soundcloud/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-SoundCloud-EI_IE269358.htm",
+      "favorite": false
     },
     {
       "name": "Walt Disney Company",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/the-walt-disney-company/jobs/"
+      "link": "https://www.linkedin.com/company/the-walt-disney-company/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-The-Walt-Disney-Company-EI_IE717.htm",
+      "favorite": false
     },
     {
       "name": "Warner Bros. Discovery",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/warner-bros-discovery/jobs/"
+      "link": "https://www.linkedin.com/company/warner-bros-discovery/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Warner-Bros-Discovery-EI_IE1339.htm",
+      "favorite": false
     },
     {
       "name": "Paramount Global",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/paramount/jobs/"
+      "link": "https://www.linkedin.com/company/paramount/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Paramount-Global-EI_IE13292.htm",
+      "favorite": false
     }
-  ],
+],
   "AI": [
     {
       "name": "Scale AI",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/scaleai/jobs/"
+      "link": "https://www.linkedin.com/company/scaleai/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Scale-AI-EI_IE2604263.htm",
+      "favorite": false
     },
     {
       "name": "Anthropic",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/anthropicresearch/jobs/"
+      "link": "https://www.linkedin.com/company/anthropicresearch/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Anthropic-EI_IE5060527.htm",
+      "favorite": false
     },
     {
       "name": "OpenAI",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/openai/jobs/"
+      "link": "https://www.linkedin.com/company/openai/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-OpenAI-EI_IE3997529.htm",
+      "favorite": false
     }
-  ],
+],
   "MarketingSaaS": [
     {
       "name": "Figma",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/figma/jobs/"
+      "link": "https://www.linkedin.com/company/figma/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Figma-EI_IE1382385.htm",
+      "favorite": false
     },
     {
       "name": "Iterable",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/iterable/jobs/"
+      "link": "https://www.linkedin.com/company/iterable/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Iterable-EI_IE885049.htm",
+      "favorite": false
     },
     {
       "name": "Miro",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/mirohq/jobs/"
+      "link": "https://www.linkedin.com/company/mirohq/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Miro-EI_IE801073.htm",
+      "favorite": false
     },
     {
       "name": "Mixpanel",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/mixpanel-inc-/jobs/"
+      "link": "https://www.linkedin.com/company/mixpanel-inc-/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Mixpanel-EI_IE205373.htm",
+      "favorite": false
     },
     {
       "name": "Airtable",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/airtable/jobs/"
+      "link": "https://www.linkedin.com/company/airtable/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Airtable-EI_IE1180977.htm",
+      "favorite": false
     },
     {
       "name": "Smartly",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/smartly-io/jobs/"
+      "link": "https://www.linkedin.com/company/smartly-io/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Smartly-io-EI_IE904236.htm",
+      "favorite": false
     },
     {
       "name": "Canva",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/canva/jobs/"
+      "link": "https://www.linkedin.com/company/canva/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Canva-EI_IE1207349.htm",
+      "favorite": false
     }
-  ],
+],
   "Healthcare": [
     {
       "name": "Boston Scientific",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/boston-scientific/jobs/"
+      "link": "https://www.linkedin.com/company/boston-scientific/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Boston-Scientific-EI_IE1133.htm",
+      "favorite": false
     },
     {
       "name": "Amgen",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/amgen/jobs/"
+      "link": "https://www.linkedin.com/company/amgen/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Amgen-EI_IE1054.htm",
+      "favorite": false
     },
     {
       "name": "Johnson & Johnson",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/johnson-&-johnson/jobs/"
+      "link": "https://www.linkedin.com/company/johnson-&-johnson/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Johnson-and-Johnson-EI_IE69.htm",
+      "favorite": false
     },
     {
       "name": "Pfizer",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/pfizer/jobs/"
+      "link": "https://www.linkedin.com/company/pfizer/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Pfizer-EI_IE510.htm",
+      "favorite": false
     },
     {
       "name": "Roche",
-      "salary": 2,
-      "balance": 2,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/roche/jobs/"
+      "link": "https://www.linkedin.com/company/roche/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Roche-EI_IE1123.htm",
+      "favorite": false
     },
     {
       "name": "UnitedHealthcare",
-      "salary": 2,
-      "balance": 2,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/unitedhealthcare/jobs/"
+      "link": "https://www.linkedin.com/company/unitedhealthcare/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-UnitedHealth-Group-EI_IE1996.htm",
+      "favorite": false
     },
     {
       "name": "Philips Healthcare",
-      "salary": 2,
-      "balance": 2,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/philips/jobs/"
+      "link": "https://www.linkedin.com/company/philips/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Philips-EI_IE3497.htm",
+      "favorite": false
     },
     {
       "name": "Align Technology",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/align-technology/jobs/"
+      "link": "https://www.linkedin.com/company/align-technology/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Align-Technology-EI_IE38338.htm",
+      "favorite": false
     }
-  ],
+],
   "Fintech": [
     {
       "name": "VISA",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/visa/jobs/"
+      "link": "https://www.linkedin.com/company/visa/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Visa-EI_IE2996.htm",
+      "favorite": false
     },
     {
       "name": "Paypal",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/paypal/jobs/"
+      "link": "https://www.linkedin.com/company/paypal/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-PayPal-EI_IE3652.htm",
+      "favorite": false
     },
     {
       "name": "Square",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/joinsquare/jobs/"
+      "link": "https://www.linkedin.com/company/joinsquare/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Square-EI_IE40860.htm",
+      "favorite": false
     },
     {
       "name": "Robinhood",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/robinhood/jobs/"
+      "link": "https://www.linkedin.com/company/robinhood/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Robinhood-EI_IE1011200.htm",
+      "favorite": false
     },
     {
       "name": "Chime",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/chime-card/jobs/"
+      "link": "https://www.linkedin.com/company/chime-card/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Chime-EI_IE1281991.htm",
+      "favorite": false
     },
     {
       "name": "Stripe",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/stripe/jobs/"
+      "link": "https://www.linkedin.com/company/stripe/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Stripe-EI_IE40872.htm",
+      "favorite": false
     },
     {
       "name": "Plaid",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/plaid-/jobs/"
+      "link": "https://www.linkedin.com/company/plaid-/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Plaid-EI_IE939140.htm",
+      "favorite": false
     },
     {
       "name": "Adyen",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/adyen/jobs/"
+      "link": "https://www.linkedin.com/company/adyen/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Adyen-EI_IE315026.htm",
+      "favorite": false
     },
     {
       "name": "Brex",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/brexhq/jobs/"
+      "link": "https://www.linkedin.com/company/brexhq/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Brex-EI_IE2216746.htm",
+      "favorite": false
     }
-  ],
+],
   "Finance": [
     {
       "name": "Goldman Sachs",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/goldman-sachs/jobs/"
+      "link": "https://www.linkedin.com/company/goldman-sachs/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Goldman-Sachs-EI_IE2800.htm",
+      "favorite": false
     },
     {
       "name": "JPMorgan",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/jpmorgan/jobs/"
+      "link": "https://www.linkedin.com/company/jpmorgan/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-JP-Morgan-EI_IE14571.htm",
+      "favorite": false
     },
     {
       "name": "Citadel",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/citadel-llc/jobs/"
+      "link": "https://www.linkedin.com/company/citadel-llc/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Citadel-EI_IE12251.htm",
+      "favorite": false
     },
     {
       "name": "Jane Street",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/jane-street-global/jobs/"
+      "link": "https://www.linkedin.com/company/jane-street-global/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Jane-Street-EI_IE233674.htm",
+      "favorite": false
     },
     {
       "name": "Hudson River Trading",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/hudson-river-trading/jobs/"
+      "link": "https://www.linkedin.com/company/hudson-river-trading/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Hudson-River-Trading-EI_IE249772.htm",
+      "favorite": false
     },
     {
       "name": "Arrowstreet Capital",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/arrowstreet-capital/jobs/"
+      "link": "https://www.linkedin.com/company/arrowstreet-capital/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Arrowstreet-Capital-EI_IE29280.htm",
+      "favorite": false
     },
     {
       "name": "Two Sigma",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/two-sigma-investments/jobs/"
+      "link": "https://www.linkedin.com/company/two-sigma-investments/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Two-Sigma-EI_IE405070.htm",
+      "favorite": false
     },
     {
       "name": "Five Rings",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/fiverings/jobs/"
+      "link": "https://www.linkedin.com/company/fiverings/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Five-Rings-EI_IE291254.htm",
+      "favorite": false
     },
     {
       "name": "Optiver",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/optiver/jobs/"
+      "link": "https://www.linkedin.com/company/optiver/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Optiver-EI_IE28861.htm",
+      "favorite": false
     },
     {
       "name": "DRW",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/drw/jobs/"
+      "link": "https://www.linkedin.com/company/drw/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-DRW-EI_IE220850.htm",
+      "favorite": false
     },
     {
       "name": "IMC Trading",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/imc-financial-markets/jobs/"
+      "link": "https://www.linkedin.com/company/imc-financial-markets/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-IMC-Trading-EI_IE30343.htm",
+      "favorite": false
     }
-  ],
+],
   "B2BSaaS": [
     {
       "name": "Autodesk",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/autodesk/jobs/"
+      "link": "https://www.linkedin.com/company/autodesk/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Autodesk-EI_IE74.11,19.htm",
+      "favorite": false
     },
     {
       "name": "Databricks",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/databricks/jobs/"
+      "link": "https://www.linkedin.com/company/databricks/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Databricks-EI_IE1532760.11,21.htm",
+      "favorite": false
     },
     {
       "name": "Zoom",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/zoom/jobs/"
+      "link": "https://www.linkedin.com/company/zoom/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Zoom-Video-Communications-EI_IE834256.11,38.htm",
+      "favorite": false
     },
     {
       "name": "Snowflake",
-      "salary": 5,
-      "balance": 5,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/snowflake-computing/jobs/"
+      "link": "https://www.linkedin.com/company/snowflake-computing/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Snowflake-EI_IE2487346.11,20.htm",
+      "favorite": false
     },
     {
       "name": "Salesforce",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/salesforce/jobs/"
+      "link": "https://www.linkedin.com/company/salesforce/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm",
+      "favorite": false
     },
     {
       "name": "Oracle",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/oracle/jobs/"
+      "link": "https://www.linkedin.com/company/oracle/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Oracle-EI_IE1737.11,17.htm",
+      "favorite": false
     },
     {
       "name": "Contentsquare",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/contentsquare/jobs/"
+      "link": "https://www.linkedin.com/company/contentsquare/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Contentsquare-EI_IE2156585.11,24.htm",
+      "favorite": false
     },
     {
       "name": "Atlassian",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/atlassian/jobs/"
+      "link": "https://www.linkedin.com/company/atlassian/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Atlassian-EI_IE313931.11,20.htm",
+      "favorite": false
     },
     {
       "name": "Notion",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/notionhq/jobs/"
+      "link": "https://www.linkedin.com/company/notionhq/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Notion-EI_IE3086949.11,17.htm",
+      "favorite": false
     },
     {
       "name": "Asana",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/asana/jobs/"
+      "link": "https://www.linkedin.com/company/asana/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Asana-EI_IE312858.11,16.htm",
+      "favorite": false
     },
     {
       "name": "Slack",
-      "salary": 4,
-      "balance": 4,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/slack/jobs/"
+      "link": "https://www.linkedin.com/company/slack/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Slack-Technologies-EI_IE1003632.11,28.htm",
+      "favorite": false
     },
     {
       "name": "Zapier",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/zapier/jobs/"
+      "link": "https://www.linkedin.com/company/zapier/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Zapier-EI_IE1112852.11,17.htm",
+      "favorite": false
     },
     {
       "name": "HubSpot",
-      "salary": 3,
-      "balance": 3,
-      "notes": "",
-      "link": "https://www.linkedin.com/company/hubspot/jobs/"
+      "link": "https://www.linkedin.com/company/hubspot/jobs/",
+      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-HubSpot-EI_IE182394.11,18.htm",
+      "favorite": false
     }
-  ]
+]
 }
