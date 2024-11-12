@@ -13,9 +13,8 @@ function NavBar() {
       <NavLink to="/Fintech"> Fintech </NavLink>
       <NavLink to="/Finance"> Finance </NavLink>
       <NavLink to="/AI"> AI </NavLink>
+      <NavLink to="/CommunitySubmissions"> Community Submissions </NavLink>
       <NavLink to="/Favorited"> Favorited </NavLink>
-      {/* <NavLink to="/CommunitySubmissions"> Community Submissions </NavLink> */}
-      
 
     </nav>
   );
