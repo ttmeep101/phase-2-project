@@ -101,7 +101,7 @@
     {
       "name": "Meta",
       "link": "https://www.linkedin.com/company/meta/jobs/",
-      "indeed": "https://www.indeed.com/cmp/Meta",
+      "indeed": "https://www.indeed.com/cmp/Meta-dd1502f2",
       "favorite": false
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "Cruise",
       "link": "https://www.linkedin.com/company/getcruise/jobs/",
-      "indeed": "https://www.indeed.com/cmp/Cruise",
+      "indeed": "https://www.indeed.com/cmp/Cruise-fc3bd24b",
       "favorite": false
     },
     {
@@ -149,7 +149,7 @@
     {
       "name": "Snap",
       "link": "https://www.linkedin.com/company/snap-inc-co/jobs/",
-      "indeed": "https://www.indeed.com/cmp/Snap",
+      "indeed": "https://www.indeed.com/cmp/Snap-Inc.",
       "favorite": false
     },
     {
@@ -161,7 +161,7 @@
     {
       "name": "X",
       "link": "https://careers.x.com/",
-      "indeed": "https://www.indeed.com/cmp/X",
+      "indeed": "https://www.indeed.com/cmp/Twitter",
       "favorite": false
     }
   ],
@@ -199,7 +199,7 @@
     {
       "name": "Paramount Global",
       "link": "https://www.linkedin.com/company/paramount/jobs/",
-      "indeed": "https://www.indeed.com/cmp/Paramount-Global",
+      "indeed": "https://www.indeed.com/cmp/Paramount-66ac57f4",
       "favorite": false
     }
   ],
@@ -345,7 +345,7 @@
       {
         "name": "Chime",
         "link": "https://www.linkedin.com/company/chime-card/jobs/",
-        "indeed": "https://www.indeed.com/cmp/Chime",
+        "indeed": "https://www.indeed.com/cmp/Chime-5",
         "favorite": false
       },
       {
@@ -357,7 +357,7 @@
       {
         "name": "Plaid",
         "link": "https://www.linkedin.com/company/plaid-/jobs/",
-        "indeed": "https://www.indeed.com/cmp/Plaid",
+        "indeed": "https://www.indeed.com/cmp/Plaid-3",
         "favorite": false
       },
       {
@@ -369,7 +369,7 @@
       {
         "name": "Brex",
         "link": "https://www.linkedin.com/company/brexhq/jobs/",
-        "indeed": "https://www.indeed.com/cmp/Brex",
+        "indeed": "https://www.indeed.com/cmp/Brex-5",
         "favorite": false
       }
     ],
@@ -389,13 +389,13 @@
       {
         "name": "Citadel",
         "link": "https://www.linkedin.com/company/citadel-llc/jobs/",
-        "indeed": "https://www.indeed.com/cmp/Citadel",
+        "indeed": "https://www.indeed.com/cmp/Citadel-Securities",
         "favorite": false
       },
       {
         "name": "Jane Street",
         "link": "https://www.linkedin.com/company/jane-street-global/jobs/",
-        "indeed": "https://www.indeed.com/cmp/Jane-Street",
+        "indeed": "https://www.indeed.com/cmp/Jane-Street-4",
         "favorite": false
       },
       {
@@ -419,7 +419,7 @@
       {
         "name": "Five Rings",
         "link": "https://www.linkedin.com/company/fiverings/jobs/",
-        "indeed": "https://www.indeed.com/cmp/Five-Rings",
+        "indeed": "https://fiverings.com/careers/",
         "favorite": false
       },
       {
@@ -437,7 +437,7 @@
       {
         "name": "IMC Trading",
         "link": "https://www.linkedin.com/company/imc-financial-markets/jobs/",
-        "indeed": "https://www.indeed.com/cmp/IMC-Trading",
+        "indeed": "https://www.indeed.com/cmp/Imc-Financial-Markets",
         "favorite": false
       }
     ],
@@ -462,7 +462,7 @@
       },
       {
         "name": "Okta",
-        "link": "https://www.linkedin.com/company/okta/jobs/",
+        "link": "https://www.linkedin.com/company/okta-inc-/jobs/",
         "indeed": "https://www.indeed.com/cmp/Okta",
         "favorite": false
       },
@@ -480,20 +480,20 @@
       },
       {
         "name": "Monday.com",
-        "link": "https://www.linkedin.com/company/monday-com/jobs/",
+        "link": "https://www.linkedin.com/company/mondaydotcom/jobs/",
         "indeed": "https://www.indeed.com/cmp/Monday.com",
         "favorite": false
       },
       {
         "name": "Gong",
-        "link": "https://www.linkedin.com/company/gongio/jobs/",
-        "indeed": "https://www.indeed.com/cmp/Gong",
+        "link": "https://www.linkedin.com/company/gong-io/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Gong-7",
         "favorite": false
       },
       {
         "name": "Toast",
-        "link": "https://www.linkedin.com/company/toasttab/jobs/",
-        "indeed": "https://www.indeed.com/cmp/Toast",
+        "link": "https://www.linkedin.com/company/toast-inc/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Toast,-Inc",
         "favorite": false
       }
     ]
