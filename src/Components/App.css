@@ -186,6 +186,7 @@ button {
     font-family: var(--font-family-sans);
     font-size: var(--description-font-size);
     font-weight: var(--font-weight-normal);
+    margin: 0.5rem;
     padding: 0.5rem 1rem;
     border: none;
     border-radius: var(--content-border-radius);

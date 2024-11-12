@@ -589,5 +589,13 @@
       "id": "c988"
     }
   ],
-  "Community": []
+  "Community": [
+    {
+      "id": "fce2",
+      "name": "Amazon",
+      "link": "https://www.linkedin.com/company/amazon/jobs/",
+      "indeed": "https://www.indeed.com/cmp/Amazon.com",
+      "favorite": true
+    }
+  ]
 }

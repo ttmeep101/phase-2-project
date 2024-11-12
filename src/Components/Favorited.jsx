@@ -16,7 +16,8 @@ function Favorited() {
       'Healthcare',
       'Fintech',
       'Finance',
-      'B2BSaaS'
+      'B2BSaaS',
+      'Community'
     ];
 
     // Fetch all data with category information
