@@ -3,522 +3,499 @@
     {
       "name": "Walmart",
       "link": "https://www.linkedin.com/company/walmart/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Walmart-EI_IE715.htm",
+      "indeed": "https://www.indeed.com/cmp/Walmart",
       "favorite": false
     },
     {
       "name": "BestBuy",
       "link": "https://www.linkedin.com/company/best-buy/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Best-Buy-EI_IE97.htm",
+      "indeed": "https://www.indeed.com/cmp/Best-Buy",
       "favorite": false
     },
     {
       "name": "Home Depot",
       "link": "https://www.linkedin.com/company/the-home-depot/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-The-Home-Depot-EI_IE655.htm",
+      "indeed": "https://www.indeed.com/cmp/The-Home-Depot",
       "favorite": false
     },
     {
       "name": "Target",
       "link": "https://www.linkedin.com/company/target/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Target-EI_IE194.htm",
+      "indeed": "https://www.indeed.com/cmp/Target",
       "favorite": false
     },
     {
       "name": "Costco",
       "link": "https://www.linkedin.com/company/costco-wholesale/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Costco-Wholesale-EI_IE2590.htm",
+      "indeed": "https://www.indeed.com/cmp/Costco-Wholesale",
       "favorite": false
     },
     {
       "name": "United Airlines",
       "link": "https://www.linkedin.com/company/united-airlines/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-United-Airlines-EI_IE683.htm",
+      "indeed": "https://www.indeed.com/cmp/United-Airlines",
       "favorite": false
     },
     {
       "name": "Fedex",
       "link": "https://www.linkedin.com/company/fedex/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-FedEx-EI_IE246.htm",
+      "indeed": "https://www.indeed.com/cmp/FedEx",
       "favorite": false
     },
     {
       "name": "Aflac",
       "link": "https://www.linkedin.com/company/aflac/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Aflac-EI_IE1302.htm",
+      "indeed": "https://www.indeed.com/cmp/Aflac",
       "favorite": false
     },
     {
       "name": "GEICO",
       "link": "https://www.linkedin.com/company/geico/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-GEICO-EI_IE270.htm",
+      "indeed": "https://www.indeed.com/cmp/Geico",
       "favorite": false
     },
     {
       "name": "Kroger",
       "link": "https://www.linkedin.com/company/kroger/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Kroger-EI_IE386.htm",
+      "indeed": "https://www.indeed.com/cmp/Kroger",
       "favorite": false
     },
     {
       "name": "Boeing",
       "link": "https://www.linkedin.com/company/boeing/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Boeing-EI_IE102.htm",
+      "indeed": "https://www.indeed.com/cmp/Boeing",
       "favorite": false
     },
     {
       "name": "Tesla",
       "link": "https://www.linkedin.com/company/tesla-motors/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Tesla-EI_IE43129.htm",
+      "indeed": "https://www.indeed.com/cmp/Tesla",
       "favorite": false
     },
     {
       "name": "The RealReal",
       "link": "https://www.linkedin.com/company/the-realreal/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-The-RealReal-EI_IE486312.htm",
+      "indeed": "https://www.indeed.com/cmp/The-Realreal",
       "favorite": false
     }
-],
+  ],
   "BigTech": [
     {
       "name": "Adobe",
       "link": "https://www.linkedin.com/company/adobe/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Adobe-EI_IE1099.htm",
+      "indeed": "https://www.indeed.com/cmp/Adobe",
       "favorite": false
     },
     {
       "name": "Microsoft",
       "link": "https://www.linkedin.com/company/microsoft/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Microsoft-EI_IE1651.htm",
+      "indeed": "https://www.indeed.com/cmp/Microsoft",
       "favorite": false
     },
     {
       "name": "Dropbox",
       "link": "https://www.linkedin.com/company/dropbox/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Dropbox-EI_IE391087.htm",
+      "indeed": "https://www.indeed.com/cmp/Dropbox-ab4b15a9",
       "favorite": false
     },
     {
       "name": "Meta",
       "link": "https://www.linkedin.com/company/meta/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Meta-EI_IE40772.htm",
+      "indeed": "https://www.indeed.com/cmp/Meta",
       "favorite": false
     },
     {
       "name": "Google",
       "link": "https://www.linkedin.com/company/google/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Google-EI_IE9079.htm",
+      "indeed": "https://www.indeed.com/cmp/Google",
       "favorite": false
     },
     {
       "name": "Apple",
       "link": "https://www.linkedin.com/company/apple/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Apple-EI_IE1138.htm",
+      "indeed": "https://www.indeed.com/cmp/Apple",
       "favorite": false
     },
     {
       "name": "Airbnb",
       "link": "https://www.linkedin.com/company/airbnb/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Airbnb-EI_IE43844.htm",
+      "indeed": "https://www.indeed.com/cmp/Airbnb",
       "favorite": false
     },
     {
       "name": "Uber",
       "link": "https://www.linkedin.com/company/uber-com/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Uber-EI_IE575263.htm",
+      "indeed": "https://www.indeed.com/cmp/Uber",
       "favorite": false
     },
     {
       "name": "LinkedIn",
       "link": "https://www.linkedin.com/company/linkedin/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-LinkedIn-EI_IE34865.htm",
+      "indeed": "https://www.indeed.com/cmp/Linkedin",
       "favorite": false
     },
     {
       "name": "Cruise",
       "link": "https://www.linkedin.com/company/getcruise/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Cruise-EI_IE1835361.htm",
+      "indeed": "https://www.indeed.com/cmp/Cruise",
       "favorite": false
     },
     {
       "name": "NVIDIA",
       "link": "https://www.linkedin.com/company/nvidia/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-NVIDIA-EI_IE6290.htm",
+      "indeed": "https://www.indeed.com/cmp/Nvidia",
       "favorite": false
     },
     {
       "name": "Snap",
       "link": "https://www.linkedin.com/company/snap-inc-co/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Snap-EI_IE1021682.htm",
+      "indeed": "https://www.indeed.com/cmp/Snap",
       "favorite": false
     },
     {
       "name": "Zillow",
       "link": "https://www.linkedin.com/company/zillow/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Zillow-EI_IE123077.htm",
+      "indeed": "https://www.indeed.com/cmp/Zillow",
       "favorite": false
     },
     {
       "name": "X",
       "link": "https://careers.x.com/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-X-EI_IE35992.htm",
+      "indeed": "https://www.indeed.com/cmp/X",
       "favorite": false
     }
-],
+  ],
   "Media": [
     {
       "name": "Netflix",
       "link": "https://www.linkedin.com/company/netflix/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Netflix-EI_IE11811.htm",
+      "indeed": "https://www.indeed.com/cmp/Netflix",
       "favorite": false
     },
     {
       "name": "Spotify",
       "link": "https://www.linkedin.com/company/spotify/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Spotify-EI_IE67744.htm",
+      "indeed": "https://www.indeed.com/cmp/Spotify",
       "favorite": false
     },
     {
       "name": "SoundCloud",
       "link": "https://www.linkedin.com/company/soundcloud/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-SoundCloud-EI_IE269358.htm",
+      "indeed": "https://www.indeed.com/cmp/Soundcloud",
       "favorite": false
     },
     {
       "name": "Walt Disney Company",
       "link": "https://www.linkedin.com/company/the-walt-disney-company/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-The-Walt-Disney-Company-EI_IE717.htm",
+      "indeed": "https://www.indeed.com/cmp/The-Walt-Disney-Company",
       "favorite": false
     },
     {
       "name": "Warner Bros. Discovery",
       "link": "https://www.linkedin.com/company/warner-bros-discovery/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Warner-Bros-Discovery-EI_IE1339.htm",
+      "indeed": "https://www.indeed.com/cmp/Warner-Bros.-Discovery",
       "favorite": false
     },
     {
       "name": "Paramount Global",
       "link": "https://www.linkedin.com/company/paramount/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Paramount-Global-EI_IE13292.htm",
+      "indeed": "https://www.indeed.com/cmp/Paramount-Global",
       "favorite": false
     }
-],
+  ],
   "AI": [
     {
       "name": "Scale AI",
       "link": "https://www.linkedin.com/company/scaleai/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Scale-AI-EI_IE2604263.htm",
+      "indeed": "https://www.indeed.com/cmp/Scale-AI",
       "favorite": false
     },
     {
       "name": "Anthropic",
       "link": "https://www.linkedin.com/company/anthropicresearch/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Anthropic-EI_IE5060527.htm",
+      "indeed": "https://www.indeed.com/cmp/Anthropic",
       "favorite": false
     },
     {
       "name": "OpenAI",
       "link": "https://www.linkedin.com/company/openai/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-OpenAI-EI_IE3997529.htm",
+      "indeed": "https://www.indeed.com/cmp/Openai",
       "favorite": false
     }
-],
-  "MarketingSaaS": [
-    {
-      "name": "Figma",
-      "link": "https://www.linkedin.com/company/figma/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Figma-EI_IE1382385.htm",
-      "favorite": false
-    },
-    {
-      "name": "Iterable",
-      "link": "https://www.linkedin.com/company/iterable/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Iterable-EI_IE885049.htm",
-      "favorite": false
-    },
-    {
-      "name": "Miro",
-      "link": "https://www.linkedin.com/company/mirohq/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Miro-EI_IE801073.htm",
-      "favorite": false
-    },
-    {
-      "name": "Mixpanel",
-      "link": "https://www.linkedin.com/company/mixpanel-inc-/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Mixpanel-EI_IE205373.htm",
-      "favorite": false
-    },
-    {
-      "name": "Airtable",
-      "link": "https://www.linkedin.com/company/airtable/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Airtable-EI_IE1180977.htm",
-      "favorite": false
-    },
-    {
-      "name": "Smartly",
-      "link": "https://www.linkedin.com/company/smartly-io/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Smartly-io-EI_IE904236.htm",
-      "favorite": false
-    },
-    {
-      "name": "Canva",
-      "link": "https://www.linkedin.com/company/canva/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Canva-EI_IE1207349.htm",
-      "favorite": false
-    }
-],
-  "Healthcare": [
-    {
-      "name": "Boston Scientific",
-      "link": "https://www.linkedin.com/company/boston-scientific/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Boston-Scientific-EI_IE1133.htm",
-      "favorite": false
-    },
-    {
-      "name": "Amgen",
-      "link": "https://www.linkedin.com/company/amgen/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Amgen-EI_IE1054.htm",
-      "favorite": false
-    },
-    {
-      "name": "Johnson & Johnson",
-      "link": "https://www.linkedin.com/company/johnson-&-johnson/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Johnson-and-Johnson-EI_IE69.htm",
-      "favorite": false
-    },
-    {
-      "name": "Pfizer",
-      "link": "https://www.linkedin.com/company/pfizer/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Pfizer-EI_IE510.htm",
-      "favorite": false
-    },
-    {
-      "name": "Roche",
-      "link": "https://www.linkedin.com/company/roche/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Roche-EI_IE1123.htm",
-      "favorite": false
-    },
-    {
-      "name": "UnitedHealthcare",
-      "link": "https://www.linkedin.com/company/unitedhealthcare/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-UnitedHealth-Group-EI_IE1996.htm",
-      "favorite": false
-    },
-    {
-      "name": "Philips Healthcare",
-      "link": "https://www.linkedin.com/company/philips/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Philips-EI_IE3497.htm",
-      "favorite": false
-    },
-    {
-      "name": "Align Technology",
-      "link": "https://www.linkedin.com/company/align-technology/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Align-Technology-EI_IE38338.htm",
-      "favorite": false
-    }
-],
-  "Fintech": [
-    {
-      "name": "VISA",
-      "link": "https://www.linkedin.com/company/visa/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Visa-EI_IE2996.htm",
-      "favorite": false
-    },
-    {
-      "name": "Paypal",
-      "link": "https://www.linkedin.com/company/paypal/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-PayPal-EI_IE3652.htm",
-      "favorite": false
-    },
-    {
-      "name": "Square",
-      "link": "https://www.linkedin.com/company/joinsquare/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Square-EI_IE40860.htm",
-      "favorite": false
-    },
-    {
-      "name": "Robinhood",
-      "link": "https://www.linkedin.com/company/robinhood/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Robinhood-EI_IE1011200.htm",
-      "favorite": false
-    },
-    {
-      "name": "Chime",
-      "link": "https://www.linkedin.com/company/chime-card/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Chime-EI_IE1281991.htm",
-      "favorite": false
-    },
-    {
-      "name": "Stripe",
-      "link": "https://www.linkedin.com/company/stripe/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Stripe-EI_IE40872.htm",
-      "favorite": false
-    },
-    {
-      "name": "Plaid",
-      "link": "https://www.linkedin.com/company/plaid-/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Plaid-EI_IE939140.htm",
-      "favorite": false
-    },
-    {
-      "name": "Adyen",
-      "link": "https://www.linkedin.com/company/adyen/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Adyen-EI_IE315026.htm",
-      "favorite": false
-    },
-    {
-      "name": "Brex",
-      "link": "https://www.linkedin.com/company/brexhq/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Brex-EI_IE2216746.htm",
-      "favorite": false
-    }
-],
-  "Finance": [
-    {
-      "name": "Goldman Sachs",
-      "link": "https://www.linkedin.com/company/goldman-sachs/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Goldman-Sachs-EI_IE2800.htm",
-      "favorite": false
-    },
-    {
-      "name": "JPMorgan",
-      "link": "https://www.linkedin.com/company/jpmorgan/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-JP-Morgan-EI_IE14571.htm",
-      "favorite": false
-    },
-    {
-      "name": "Citadel",
-      "link": "https://www.linkedin.com/company/citadel-llc/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Citadel-EI_IE12251.htm",
-      "favorite": false
-    },
-    {
-      "name": "Jane Street",
-      "link": "https://www.linkedin.com/company/jane-street-global/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Jane-Street-EI_IE233674.htm",
-      "favorite": false
-    },
-    {
-      "name": "Hudson River Trading",
-      "link": "https://www.linkedin.com/company/hudson-river-trading/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Hudson-River-Trading-EI_IE249772.htm",
-      "favorite": false
-    },
-    {
-      "name": "Arrowstreet Capital",
-      "link": "https://www.linkedin.com/company/arrowstreet-capital/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Arrowstreet-Capital-EI_IE29280.htm",
-      "favorite": false
-    },
-    {
-      "name": "Two Sigma",
-      "link": "https://www.linkedin.com/company/two-sigma-investments/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Two-Sigma-EI_IE405070.htm",
-      "favorite": false
-    },
-    {
-      "name": "Five Rings",
-      "link": "https://www.linkedin.com/company/fiverings/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Five-Rings-EI_IE291254.htm",
-      "favorite": false
-    },
-    {
-      "name": "Optiver",
-      "link": "https://www.linkedin.com/company/optiver/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Optiver-EI_IE28861.htm",
-      "favorite": false
-    },
-    {
-      "name": "DRW",
-      "link": "https://www.linkedin.com/company/drw/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-DRW-EI_IE220850.htm",
-      "favorite": false
-    },
-    {
-      "name": "IMC Trading",
-      "link": "https://www.linkedin.com/company/imc-financial-markets/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-IMC-Trading-EI_IE30343.htm",
-      "favorite": false
-    }
-],
-  "B2BSaaS": [
-    {
-      "name": "Autodesk",
-      "link": "https://www.linkedin.com/company/autodesk/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Autodesk-EI_IE74.11,19.htm",
-      "favorite": false
-    },
-    {
-      "name": "Databricks",
-      "link": "https://www.linkedin.com/company/databricks/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Databricks-EI_IE1532760.11,21.htm",
-      "favorite": false
-    },
-    {
-      "name": "Zoom",
-      "link": "https://www.linkedin.com/company/zoom/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Zoom-Video-Communications-EI_IE834256.11,38.htm",
-      "favorite": false
-    },
-    {
-      "name": "Snowflake",
-      "link": "https://www.linkedin.com/company/snowflake-computing/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Snowflake-EI_IE2487346.11,20.htm",
-      "favorite": false
-    },
-    {
-      "name": "Salesforce",
-      "link": "https://www.linkedin.com/company/salesforce/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm",
-      "favorite": false
-    },
-    {
-      "name": "Oracle",
-      "link": "https://www.linkedin.com/company/oracle/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Oracle-EI_IE1737.11,17.htm",
-      "favorite": false
-    },
-    {
-      "name": "Contentsquare",
-      "link": "https://www.linkedin.com/company/contentsquare/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Contentsquare-EI_IE2156585.11,24.htm",
-      "favorite": false
-    },
-    {
-      "name": "Atlassian",
-      "link": "https://www.linkedin.com/company/atlassian/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Atlassian-EI_IE313931.11,20.htm",
-      "favorite": false
-    },
-    {
-      "name": "Notion",
-      "link": "https://www.linkedin.com/company/notionhq/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Notion-EI_IE3086949.11,17.htm",
-      "favorite": false
-    },
-    {
-      "name": "Asana",
-      "link": "https://www.linkedin.com/company/asana/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Asana-EI_IE312858.11,16.htm",
-      "favorite": false
-    },
-    {
-      "name": "Slack",
-      "link": "https://www.linkedin.com/company/slack/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Slack-Technologies-EI_IE1003632.11,28.htm",
-      "favorite": false
-    },
-    {
-      "name": "Zapier",
-      "link": "https://www.linkedin.com/company/zapier/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-Zapier-EI_IE1112852.11,17.htm",
-      "favorite": false
-    },
-    {
-      "name": "HubSpot",
-      "link": "https://www.linkedin.com/company/hubspot/jobs/",
-      "glassdoor": "https://www.glassdoor.com/Overview/Working-at-HubSpot-EI_IE182394.11,18.htm",
-      "favorite": false
-    }
-]
-}
+  ],
+    "MarketingSaaS": [
+      {
+        "name": "Figma",
+        "link": "https://www.linkedin.com/company/figma/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Figma",
+        "favorite": false
+      },
+      {
+        "name": "Iterable",
+        "link": "https://www.linkedin.com/company/iterable/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Iterable",
+        "favorite": false
+      },
+      {
+        "name": "Miro",
+        "link": "https://www.linkedin.com/company/mirohq/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Miro-3b3ebbc2",
+        "favorite": false
+      },
+      {
+        "name": "Mixpanel",
+        "link": "https://www.linkedin.com/company/mixpanel-inc-/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Mixpanel",
+        "favorite": false
+      },
+      {
+        "name": "Airtable",
+        "link": "https://www.linkedin.com/company/airtable/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Airtable",
+        "favorite": false
+      },
+      {
+        "name": "Smartly",
+        "link": "https://www.linkedin.com/company/smartly-io/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Smartly",
+        "favorite": false
+      },
+      {
+        "name": "Canva",
+        "link": "https://www.linkedin.com/company/canva/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Canva",
+        "favorite": false
+      }
+    ],
+    "Healthcare": [
+      {
+        "name": "Boston Scientific",
+        "link": "https://www.linkedin.com/company/boston-scientific/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Boston-Scientific",
+        "favorite": false
+      },
+      {
+        "name": "Amgen",
+        "link": "https://www.linkedin.com/company/amgen/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Amgen",
+        "favorite": false
+      },
+      {
+        "name": "Johnson & Johnson",
+        "link": "https://www.linkedin.com/company/johnson-&-johnson/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Johnson-&-Johnson",
+        "favorite": false
+      },
+      {
+        "name": "Pfizer",
+        "link": "https://www.linkedin.com/company/pfizer/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Pfizer",
+        "favorite": false
+      },
+      {
+        "name": "Roche",
+        "link": "https://www.linkedin.com/company/roche/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Roche",
+        "favorite": false
+      },
+      {
+        "name": "UnitedHealthcare",
+        "link": "https://www.linkedin.com/company/unitedhealthcare/jobs/",
+        "indeed": "https://www.indeed.com/cmp/UnitedHealthcare",
+        "favorite": false
+      },
+      {
+        "name": "Philips Healthcare",
+        "link": "https://www.linkedin.com/company/philips/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Philips-Healthcare",
+        "favorite": false
+      },
+      {
+        "name": "Align Technology",
+        "link": "https://www.linkedin.com/company/align-technology/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Align-Technology",
+        "favorite": false
+      }
+    ],
+    "Fintech": [
+      {
+        "name": "VISA",
+        "link": "https://www.linkedin.com/company/visa/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Visa",
+        "favorite": false
+      },
+      {
+        "name": "Paypal",
+        "link": "https://www.linkedin.com/company/paypal/jobs/",
+        "indeed": "https://www.indeed.com/cmp/PayPal",
+        "favorite": false
+      },
+      {
+        "name": "Square",
+        "link": "https://www.linkedin.com/company/joinsquare/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Square",
+        "favorite": false
+      },
+      {
+        "name": "Robinhood",
+        "link": "https://www.linkedin.com/company/robinhood/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Robinhood",
+        "favorite": false
+      },
+      {
+        "name": "Chime",
+        "link": "https://www.linkedin.com/company/chime-card/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Chime",
+        "favorite": false
+      },
+      {
+        "name": "Stripe",
+        "link": "https://www.linkedin.com/company/stripe/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Stripe",
+        "favorite": false
+      },
+      {
+        "name": "Plaid",
+        "link": "https://www.linkedin.com/company/plaid-/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Plaid",
+        "favorite": false
+      },
+      {
+        "name": "Adyen",
+        "link": "https://www.linkedin.com/company/adyen/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Adyen",
+        "favorite": false
+      },
+      {
+        "name": "Brex",
+        "link": "https://www.linkedin.com/company/brexhq/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Brex",
+        "favorite": false
+      }
+    ],
+    "Finance": [
+      {
+        "name": "Goldman Sachs",
+        "link": "https://www.linkedin.com/company/goldman-sachs/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Goldman-Sachs",
+        "favorite": false
+      },
+      {
+        "name": "JPMorgan",
+        "link": "https://www.linkedin.com/company/jpmorgan/jobs/",
+        "indeed": "https://www.indeed.com/cmp/JPMorgan",
+        "favorite": false
+      },
+      {
+        "name": "Citadel",
+        "link": "https://www.linkedin.com/company/citadel-llc/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Citadel",
+        "favorite": false
+      },
+      {
+        "name": "Jane Street",
+        "link": "https://www.linkedin.com/company/jane-street-global/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Jane-Street",
+        "favorite": false
+      },
+      {
+        "name": "Hudson River Trading",
+        "link": "https://www.linkedin.com/company/hudson-river-trading/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Hudson-River-Trading",
+        "favorite": false
+      },
+      {
+        "name": "Arrowstreet Capital",
+        "link": "https://www.linkedin.com/company/arrowstreet-capital/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Arrowstreet-Capital",
+        "favorite": false
+      },
+      {
+        "name": "Two Sigma",
+        "link": "https://www.linkedin.com/company/two-sigma-investments/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Two-Sigma",
+        "favorite": false
+      },
+      {
+        "name": "Five Rings",
+        "link": "https://www.linkedin.com/company/fiverings/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Five-Rings",
+        "favorite": false
+      },
+      {
+        "name": "Optiver",
+        "link": "https://www.linkedin.com/company/optiver/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Optiver",
+        "favorite": false
+      },
+      {
+        "name": "DRW",
+        "link": "https://www.linkedin.com/company/drw/jobs/",
+        "indeed": "https://www.indeed.com/cmp/DRW",
+        "favorite": false
+      },
+      {
+        "name": "IMC Trading",
+        "link": "https://www.linkedin.com/company/imc-financial-markets/jobs/",
+        "indeed": "https://www.indeed.com/cmp/IMC-Trading",
+        "favorite": false
+      }
+    ],
+    "B2BSaaS": [
+      {
+        "name": "Autodesk",
+        "link": "https://www.linkedin.com/company/autodesk/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Autodesk",
+        "favorite": false
+      },
+      {
+        "name": "Databricks",
+        "link": "https://www.linkedin.com/company/databricks/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Databricks",
+        "favorite": false
+      },
+      {
+        "name": "HubSpot",
+        "link": "https://www.linkedin.com/company/hubspot/jobs/",
+        "indeed": "https://www.indeed.com/cmp/HubSpot",
+        "favorite": false
+      },
+      {
+        "name": "Okta",
+        "link": "https://www.linkedin.com/company/okta/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Okta",
+        "favorite": false
+      },
+      {
+        "name": "Salesforce",
+        "link": "https://www.linkedin.com/company/salesforce/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Salesforce",
+        "favorite": false
+      },
+      {
+        "name": "ServiceTitan",
+        "link": "https://www.linkedin.com/company/servicetitan/jobs/",
+        "indeed": "https://www.indeed.com/cmp/ServiceTitan",
+        "favorite": false
+      },
+      {
+        "name": "Monday.com",
+        "link": "https://www.linkedin.com/company/monday-com/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Monday.com",
+        "favorite": false
+      },
+      {
+        "name": "Gong",
+        "link": "https://www.linkedin.com/company/gongio/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Gong",
+        "favorite": false
+      },
+      {
+        "name": "Toast",
+        "link": "https://www.linkedin.com/company/toasttab/jobs/",
+        "indeed": "https://www.indeed.com/cmp/Toast",
+        "favorite": false
+      }
+    ]
+  }
+  

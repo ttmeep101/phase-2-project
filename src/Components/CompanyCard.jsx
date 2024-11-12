@@ -8,7 +8,7 @@ function CompanyCard({ company }) {
                 <a href={company.link} target="_blank" rel="noopener noreferrer">LinkedIn</a>
             </h4>
             <h4 className="glassdoor-link">
-                <a href={company.glassdoor} target="_blank" rel="noopener noreferrer">Glassdoor</a>
+                <a href={company.indeed} target="_blank" rel="noopener noreferrer">Indeed</a>
             </h4>
         </div>
     );
