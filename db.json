@@ -325,7 +325,7 @@
       "name": "Boston Scientific",
       "link": "https://www.linkedin.com/company/boston-scientific/jobs/",
       "indeed": "https://www.indeed.com/cmp/Boston-Scientific",
-      "favorite": false,
+      "favorite": true,
       "id": "362e"
     },
     {
@@ -339,7 +339,7 @@
       "name": "Johnson & Johnson",
       "link": "https://www.linkedin.com/company/johnson-&-johnson/jobs/",
       "indeed": "https://www.indeed.com/cmp/Johnson-&-Johnson",
-      "favorite": false,
+      "favorite": true,
       "id": "760d",
       "category": "Healthcare"
     },

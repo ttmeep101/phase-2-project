@@ -36,7 +36,7 @@ function MarketingSaaS() {
             <Header />
             <NavBar />
             <div className="content-square">
-                <h2 className="section-title">Big Tech</h2>
+                <h2 className="section-title">Marketing SaaS</h2>
                 <p>{overview.MarketingSaaS.Overview}</p>
             </div>
             <div className="company-tiles">
