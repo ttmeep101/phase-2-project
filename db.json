@@ -325,7 +325,7 @@
       "name": "Boston Scientific",
       "link": "https://www.linkedin.com/company/boston-scientific/jobs/",
       "indeed": "https://www.indeed.com/cmp/Boston-Scientific",
-      "favorite": true,
+      "favorite": false,
       "id": "362e"
     },
     {
@@ -339,7 +339,7 @@
       "name": "Johnson & Johnson",
       "link": "https://www.linkedin.com/company/johnson-&-johnson/jobs/",
       "indeed": "https://www.indeed.com/cmp/Johnson-&-Johnson",
-      "favorite": true,
+      "favorite": false,
       "id": "760d",
       "category": "Healthcare"
     },
@@ -472,7 +472,8 @@
       "link": "https://www.linkedin.com/company/jane-street-global/jobs/",
       "indeed": "https://www.indeed.com/cmp/Jane-Street-4",
       "favorite": false,
-      "id": "e911"
+      "id": "e911",
+      "category": "Finance"
     },
     {
       "name": "Hudson River Trading",
