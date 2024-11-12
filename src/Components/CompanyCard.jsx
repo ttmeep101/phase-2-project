@@ -32,7 +32,7 @@ function CompanyCard({ company, category, updateFavoriteStatus }) {
             <h4 className="company-link">
                 <a href={company.link} target="_blank" rel="noopener noreferrer">LinkedIn</a>
             </h4>
-            <h4 className="glassdoor-link">
+            <h4 className="indeed-link">
                 <a href={company.indeed} target="_blank" rel="noopener noreferrer">Indeed</a>
             </h4>
             <button onClick={handleFavorite}>{isFavorite ? '★' : '☆'}</button>
