@@ -36,7 +36,7 @@ function AI() {
             <Header />
             <NavBar />
             <div className="content-square">
-                <h2 className="section-title">Big Tech</h2>
+                <h2 className="section-title">AI</h2>
                 <p>{overview.AI.Overview}</p>
             </div>
             <div className="company-tiles">

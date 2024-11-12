@@ -36,7 +36,7 @@ function Fintech() {
             <Header />
             <NavBar />
             <div className="content-square">
-                <h2 className="section-title">Big Tech</h2>
+                <h2 className="section-title">Fintech</h2>
                 <p>{overview.Fintech.Overview}</p>
             </div>
             <div className="company-tiles">

@@ -36,7 +36,7 @@ function IndustryLeaders() {
             <Header />
             <NavBar />
             <div className="content-square">
-                <h2 className="section-title">Big Tech</h2>
+                <h2 className="section-title">Industry Leaders</h2>
                 <p>{overview.IndustryLeaders.Overview}</p>
             </div>
             <div className="company-tiles">

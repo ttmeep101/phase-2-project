@@ -36,7 +36,7 @@ function Healthcare() {
             <Header />
             <NavBar />
             <div className="content-square">
-                <h2 className="section-title">Big Tech</h2>
+                <h2 className="section-title">Healthcare</h2>
                 <p>{overview.Healthcare.Overview}</p>
             </div>
             <div className="company-tiles">

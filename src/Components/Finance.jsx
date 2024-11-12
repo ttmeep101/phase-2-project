@@ -36,7 +36,7 @@ function Finance() {
             <Header />
             <NavBar />
             <div className="content-square">
-                <h2 className="section-title">Big Tech</h2>
+                <h2 className="section-title">Finance</h2>
                 <p>{overview.Finance.Overview}</p>
             </div>
             <div className="company-tiles">

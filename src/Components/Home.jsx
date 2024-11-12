@@ -13,9 +13,9 @@ function Home() {
             <Navbar />
 
             <div className="overview">
-                <h2 className="section-title">Site Overview Placeholder</h2>
+                <h2 className="section-title">Site Overview</h2>
                 <div className="content-square">
-                    <p>Site overview content goes here.</p>
+                    <p>This site is intended to provide a repository of companies to help support Flatiron Software Engineering students in their job search.</p>
                 </div>
             </div>
 
