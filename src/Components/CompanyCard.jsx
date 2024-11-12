@@ -2,7 +2,6 @@ import React from 'react';
 import { useState, useEffect } from 'react';
 
 function CompanyCard({ company, category, updateFavoriteStatus }) {
-    
     const [isFavorite, setFavorite] = useState(company.favorite)
 
     useEffect(() => {

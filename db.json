@@ -5,14 +5,16 @@
       "link": "https://www.linkedin.com/company/walmart/jobs/",
       "indeed": "https://www.indeed.com/cmp/Walmart",
       "favorite": false,
-      "id": "32d5"
+      "id": "32d5",
+      "category": "IndustryLeaders"
     },
     {
       "name": "BestBuy",
       "link": "https://www.linkedin.com/company/best-buy/jobs/",
       "indeed": "https://www.indeed.com/cmp/Best-Buy",
       "favorite": false,
-      "id": "3315"
+      "id": "3315",
+      "category": "IndustryLeaders"
     },
     {
       "name": "Home Depot",
@@ -26,7 +28,8 @@
       "link": "https://www.linkedin.com/company/target/jobs/",
       "indeed": "https://www.indeed.com/cmp/Target",
       "favorite": false,
-      "id": "15bf"
+      "id": "15bf",
+      "category": "IndustryLeaders"
     },
     {
       "name": "Costco",
@@ -105,14 +108,16 @@
       "link": "https://www.linkedin.com/company/microsoft/jobs/",
       "indeed": "https://www.indeed.com/cmp/Microsoft",
       "favorite": false,
-      "id": "157d"
+      "id": "157d",
+      "category": "BigTech"
     },
     {
       "name": "Dropbox",
       "link": "https://www.linkedin.com/company/dropbox/jobs/",
       "indeed": "https://www.indeed.com/cmp/Dropbox-ab4b15a9",
       "favorite": false,
-      "id": "b244"
+      "id": "b244",
+      "category": "BigTech"
     },
     {
       "name": "Meta",
@@ -161,14 +166,16 @@
       "link": "https://www.linkedin.com/company/getcruise/jobs/",
       "indeed": "https://www.indeed.com/cmp/Cruise-fc3bd24b",
       "favorite": false,
-      "id": "ebb6"
+      "id": "ebb6",
+      "category": "BigTech"
     },
     {
       "name": "NVIDIA",
       "link": "https://www.linkedin.com/company/nvidia/jobs/",
       "indeed": "https://www.indeed.com/cmp/Nvidia",
       "favorite": false,
-      "id": "369a"
+      "id": "369a",
+      "category": "BigTech"
     },
     {
       "name": "Snap",
@@ -205,7 +212,8 @@
       "link": "https://www.linkedin.com/company/spotify/jobs/",
       "indeed": "https://www.indeed.com/cmp/Spotify",
       "favorite": false,
-      "id": "5c08"
+      "id": "5c08",
+      "category": "Media"
     },
     {
       "name": "SoundCloud",
@@ -219,7 +227,8 @@
       "link": "https://www.linkedin.com/company/the-walt-disney-company/jobs/",
       "indeed": "https://www.indeed.com/cmp/The-Walt-Disney-Company",
       "favorite": false,
-      "id": "ac89"
+      "id": "ac89",
+      "category": "Media"
     },
     {
       "name": "Warner Bros. Discovery",
@@ -279,7 +288,8 @@
       "link": "https://www.linkedin.com/company/mirohq/jobs/",
       "indeed": "https://www.indeed.com/cmp/Miro-3b3ebbc2",
       "favorite": false,
-      "id": "6488"
+      "id": "6488",
+      "category": "MarketingSaaS"
     },
     {
       "name": "Mixpanel",
@@ -330,7 +340,8 @@
       "link": "https://www.linkedin.com/company/johnson-&-johnson/jobs/",
       "indeed": "https://www.indeed.com/cmp/Johnson-&-Johnson",
       "favorite": false,
-      "id": "760d"
+      "id": "760d",
+      "category": "Healthcare"
     },
     {
       "name": "Pfizer",
@@ -395,7 +406,8 @@
       "link": "https://www.linkedin.com/company/robinhood/jobs/",
       "indeed": "https://www.indeed.com/cmp/Robinhood",
       "favorite": false,
-      "id": "2593"
+      "id": "2593",
+      "category": "Fintech"
     },
     {
       "name": "Chime",

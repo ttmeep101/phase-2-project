@@ -10,7 +10,7 @@ import Finance from './Finance';
 import B2BSaaS from './B2BSaaS';
 import AI from './AI';
 // import CommunitySubmissions from './CommunitySubmissions';
-// import MostFavorited from './MostFavorited';
+import Favorited from './Favorited';
 
 // import ErrorPage from './pages/ErrorPage';
 
@@ -26,7 +26,7 @@ const routes = createBrowserRouter([
   { path: '/B2BSaaS', element: <B2BSaaS /> },
   { path: '/AI', element: <AI /> },
 //   { path: '/CommunitySubmissions', element: <CommunitySubmissions /> },
-//   { path: '/MostFavorited', element: <MostFavorited /> },
+  { path: '/Favorited', element: <Favorited /> },
 //   { path: '*', element: <ErrorPage /> }
 ]);
 
