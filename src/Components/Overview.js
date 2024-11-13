@@ -2,31 +2,31 @@ const overview =
 {
 "BigTech":
     {
-      "Overview": "Well-established leaders in their respective tech fields. These are generally recognized companies worth billions of dollars. "
+      "Overview": "Big Tech: Well-established leaders in their respective tech fields. These are generally recognized companies worth billions of dollars. "
     },
 "Media":
     {
-      "Overview": "These companies host and produce the majority of digital streaming media across audio and video."
+      "Overview": "Media: These companies host and produce the majority of digital streaming media across audio and video."
     },
 "AI": 
     {
-      "Overview": "AI continues to be a rapidly evolving space. These are a few of the early category leaders."
+      "Overview": "AI: AI continues to be a rapidly evolving space. These are a few of the early category leaders."
     },
 "MarketingSaaS":
     {
-      "Overview": "These are leading software products for marketers that provide support across product design, paid media, CRM, and data analytics."
+      "Overview": "Marketing SaaS: These are leading software products for marketers that provide support across product design, paid media, CRM, and data analytics."
     },
 "B2BSaaS":
     {
-      "Overview": "This collection of enterprise software firms underpins much of how most major companies operate today."
+      "Overview": "B2B SaaS: This collection of enterprise software firms underpins much of how most major companies operate today."
     },
 "Fintech":
     {
-      "Overview": "Often specializing in credit and payments, this group includes some of the newest leaders in the financial industry."
+      "Overview": "Fintech: Often specializing in credit and payments, this group includes some of the newest leaders in the financial industry."
     },
 "Finance":
     {
-      "Overview": "Leading traditional top-tier banks and trading firms."
+      "Overview": "Finance: Leading traditional top-tier banks and trading firms."
     },
 "Healthcare":
     {
@@ -42,7 +42,7 @@ const overview =
     },
 "MostFavorited":
     {
-      "Overview": "Companies across categories that have recevied the most favorites by our users"
+      "Overview": "Companies across categories that have recevied the most favorites by our users."
     }
 }
 export default overview

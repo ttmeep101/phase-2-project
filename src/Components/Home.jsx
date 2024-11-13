@@ -21,17 +21,17 @@ function Home() {
 
             <div className="BigTechHeader">
                 <h2 className="section-title">Big Tech</h2>
-                <Link to='/BigTech'>
+                <Link to='/BigTech' className="link">
                     <div className="content-square">
                         <p>{overview.BigTech.Overview}</p>
                     </div>
                 </Link>
-                <Link to='/Media'>
+                <Link to='/Media' className="link">
                     <div className="content-square">
                         <p>{overview.Media.Overview}</p>
                     </div>
                 </Link>
-                <Link to='/AI'>
+                <Link to='/AI' className="link">
                     <div className="content-square">
                         <p>{overview.AI.Overview}</p>
                     </div>
@@ -40,7 +40,7 @@ function Home() {
 
             <div className="SaaS">
                 <h2 className="section-title">SaaS</h2>
-                <Link to='/MarketingSaaS'>
+                <Link to='/MarketingSaaS' className="link">
                     <div className="content-square">
                         <p>{overview.MarketingSaaS.Overview}</p>
                     </div>
@@ -54,12 +54,12 @@ function Home() {
 
             <div className="Finance">
                 <h2 className="section-title">Finance</h2>
-                <Link to='/Fintech'>
+                <Link to='/Fintech' className="link">
                     <div className="content-square">
                         <p>{overview.Fintech.Overview}</p>
                     </div>
                 </Link>
-                <Link to='/Finance'>
+                <Link to='/Finance' className="link">
                     <div className="content-square">
                         <p>{overview.Finance.Overview}</p>
                     </div>
@@ -68,7 +68,7 @@ function Home() {
 
             <div className="HealthcareHeader">
                 <h2 className="section-title">Healthcare</h2>
-                <Link to='/Healthcare'>
+                <Link to='/Healthcare' className="link">
                     <div className="content-square">
                         <p>{overview.Healthcare.Overview}</p>
                     </div>
@@ -77,7 +77,7 @@ function Home() {
 
             <div className="IndustryLeadersHeader">
                 <h2 className="section-title">Industry Leaders</h2>
-                <Link to='/IndustryLeaders'>
+                <Link to='/IndustryLeaders' className="link">
                     <div className="content-square">
                         <p>{overview.IndustryLeaders.Overview}</p>
                     </div>
@@ -86,7 +86,7 @@ function Home() {
 
             <div className="MostFavoritedHeader">
                 <h2 className="section-title">Most Favorited</h2>
-                <Link to='/MostFavorited'>
+                <Link to='/MostFavorited' className="link">
                     <div className="content-square">
                         <p>{overview.MostFavorited.Overview}</p>
                     </div>
@@ -95,7 +95,7 @@ function Home() {
 
             <div className="CommunitySubmissionHeader">
                 <h2 className="section-title">Community Submissions</h2>
-                <Link to='/CommunitySubmissions'>
+                <Link to='/CommunitySubmissions' className="link">
                     <div className="content-square">
                         <p>{overview.CommunitySubmissions.Overview}</p>
                     </div>

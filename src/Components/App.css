@@ -27,7 +27,7 @@
 
     /* Shared styles */
     --content-padding: 1.6rem;
-    --content-border-radius: 0.8rem; /* Rounded corners */
+    --content-border-radius: 0.8rem; 
     --tile-min-width: 200px;
 }
 
@@ -39,7 +39,7 @@ body {
     background-color: var(--color-background);
     margin: 0;
     padding: 0;
-    text-align: center; /* Center all text content */
+    text-align: center; 
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
@@ -53,10 +53,10 @@ body.dark-mode {
     justify-content: space-around;
     align-items: center;
     background-color: var(--navbar-background);
-    padding: var(--navbar-padding);
+    padding: var(--content-padding);
     box-shadow: var(--navbar-box-shadow);
     margin-bottom: 2rem;
-    border-radius: var(--content-border-radius); /* Apply rounded corners */
+    border-radius: var(--content-border-radius); 
     transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -70,7 +70,7 @@ body.dark-mode .navbar {
     text-decoration: none;
     font-weight: var(--font-weight-bold);
     padding: 0.5rem 1rem;
-    border-radius: var(--content-border-radius); /* Apply rounded corners */
+    border-radius: var(--content-border-radius); 
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
@@ -94,7 +94,7 @@ body.dark-mode .navbar a:hover {
     background-color: var(--content-background);
     box-shadow: var(--content-box-shadow);
     margin-bottom: 2rem;
-    border-radius: var(--content-border-radius); /* Apply rounded corners */
+    border-radius: var(--content-border-radius); 
     transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -112,7 +112,7 @@ h2.section-title {
 .content-square {
     background-color: var(--content-background);
     padding: var(--content-padding);
-    border-radius: var(--content-border-radius); /* Apply rounded corners */
+    border-radius: var(--content-border-radius); 
     box-shadow: var(--content-box-shadow);
     margin-bottom: 1.5rem;
     text-align: center;
@@ -141,7 +141,7 @@ body.dark-mode .content-square {
     flex: 1 1 auto;
     background-color: var(--content-background);
     padding: 1rem;
-    border-radius: var(--content-border-radius); /* Apply rounded corners */
+    border-radius: var(--content-border-radius); 
     box-shadow: var(--content-box-shadow);
     margin: 0.5rem;
     display: flex;
@@ -165,20 +165,37 @@ body.dark-mode .company-tile {
     white-space: nowrap;
 }
 
-.company-link a {
+.company-link a, .indeed-link a {
     color: var(--color-link);
     text-decoration: underline;
 }
 
-.company-link a:hover {
+.company-link a:hover, .indeed-link a:hover {
     color: var(--color-link-hover);
 }
 
-body.dark-mode .company-link a {
+body.dark-mode .company-link a, body.dark-mode .indeed-link a {
     color: var(--dark-color-link);
 }
 
-body.dark-mode .company-link a:hover {
+body.dark-mode .company-link a:hover, body.dark-mode .indeed-link a:hover {
+    color: var(--dark-color-link-hover);
+}
+
+.link {
+    color: var(--color-link);
+    text-decoration: none;
+}
+
+.link:hover {
+    color: var(--color-link-hover);
+}
+
+body.dark-mode .link {
+    color: var(--dark-color-link);
+}
+
+body.dark-mode .link:hover {
     color: var(--dark-color-link-hover);
 }
 
