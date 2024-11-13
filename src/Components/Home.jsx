@@ -45,7 +45,7 @@ function Home() {
                         <p>{overview.MarketingSaaS.Overview}</p>
                     </div>
                 </Link>
-                <Link to='/B2BSaaS'>
+                <Link to='/B2BSaaS' className="link">
                     <div className="content-square">
                         <p>{overview.B2BSaaS.Overview}</p>
                     </div>

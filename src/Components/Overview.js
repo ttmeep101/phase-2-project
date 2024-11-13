@@ -42,7 +42,7 @@ const overview =
     },
 "MostFavorited":
     {
-      "Overview": "Companies across categories that have recevied the most favorites by our users."
+      "Overview": "Companies across categories that have been favorited."
     }
 }
 export default overview
