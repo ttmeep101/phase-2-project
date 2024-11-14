@@ -42,3 +42,4 @@ function CompanyCard({ company, category, updateFavoriteStatus, canDelete, handl
 }
 
 export default CompanyCard;
+
