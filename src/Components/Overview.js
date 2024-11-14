@@ -40,7 +40,7 @@ const overview =
     {
       "Overview": "Companies submitted by our community to further improve this guide as a resource."
     },
-"MostFavorited":
+"Favorited":
     {
       "Overview": "Companies across categories that have been favorited."
     }

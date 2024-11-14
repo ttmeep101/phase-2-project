@@ -211,7 +211,7 @@
       "name": "Spotify",
       "link": "https://www.linkedin.com/company/spotify/jobs/",
       "indeed": "https://www.indeed.com/cmp/Spotify",
-      "favorite": false,
+      "favorite": true,
       "id": "5c08",
       "category": "Media"
     },
@@ -302,7 +302,7 @@
       "name": "Airtable",
       "link": "https://www.linkedin.com/company/airtable/jobs/",
       "indeed": "https://www.indeed.com/cmp/Airtable",
-      "favorite": false,
+      "favorite": true,
       "id": "ae28"
     },
     {
@@ -339,7 +339,7 @@
       "name": "Johnson & Johnson",
       "link": "https://www.linkedin.com/company/johnson-&-johnson/jobs/",
       "indeed": "https://www.indeed.com/cmp/Johnson-&-Johnson",
-      "favorite": false,
+      "favorite": true,
       "id": "760d",
       "category": "Healthcare"
     },

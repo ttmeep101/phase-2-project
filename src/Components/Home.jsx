@@ -85,10 +85,10 @@ function Home() {
             </div>
 
             <div className="MostFavoritedHeader">
-                <h2 className="section-title">Most Favorited</h2>
-                <Link to='/MostFavorited' className="link">
+                <h2 className="section-title">Favorited</h2>
+                <Link to='/Favorited' className="link">
                     <div className="content-square">
-                        <p>{overview.MostFavorited.Overview}</p>
+                        <p>{overview.Favorited.Overview}</p>
                     </div>
                 </Link>
             </div>
